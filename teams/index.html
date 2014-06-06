@@ -1,0 +1,78 @@
+---
+layout: default
+---
+<section class="teams">
+  <section class="team">
+    <div class="heads">
+    {% for item in site.data.africa %}
+    <h4>{{ item.continent }}</h4>
+    <ul class="lists">
+      {% for team in item.teams %}
+      <li>
+        <img src="../{{ team.flag }}" alt="{{ team.team }}">
+        <span>{{ team.team }}</span>
+      </li>
+      {% endfor %}
+    </ul>
+      {% endfor %}
+    </div>
+
+    <div class="heads">
+    {% for item in site.data.asia %}
+    <h4>{{ item.continent }}</h4>
+    <ul class="lists">
+      {% for team in item.teams %}
+      <li>
+        <img src="../{{ team.flag }}" alt="{{ team.team }}">
+        <span>{{ team.team }}</span>
+      </li>
+      {% endfor %}
+    </ul>
+      {% endfor %}
+    </div>
+
+    <div class="heads">
+    {% for item in site.data.europe %}
+    <h4>{{ item.continent }}</h4>
+    <ul class="lists">
+      {% for team in item.teams %}
+      <li>
+        <img src="../{{ team.flag }}" alt="{{ team.team }}">
+        <span>{{ team.team }}</span>
+      </li>
+      {% endfor %}
+    </ul>
+      {% endfor %}
+    </div>
+
+    <div class="heads">
+    {% for item in site.data.northcentralamerica %}
+    <h4>{{ item.continent }}</h4>
+    <ul class="lists">
+      {% for team in item.teams %}
+      <li>
+        <img src="../{{ team.flag }}" alt="{{ team.team }}">
+        <span>{{ team.team }}</span>
+      </li>
+      {% endfor %}
+    </ul>
+      {% endfor %}
+    </div>
+
+    <div class="heads">
+    {% for item in site.data.southamerica %}
+    <h4>{{ item.continent }}</h4>
+    <ul class="lists">
+      {% for team in item.teams %}
+      <li>
+        <img src="../{{ team.flag }}" alt="{{ team.team }}">
+        <span>{{ team.team }}</span>
+      </li>
+      {% endfor %}
+    </ul>
+      {% endfor %}
+    </div>
+
+  </section>
+</section>
+

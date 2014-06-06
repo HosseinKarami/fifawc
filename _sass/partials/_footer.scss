@@ -1,0 +1,29 @@
+footer {
+  text-align: center;
+  padding: 4rem 0 1rem;
+  color: #494949;
+  font-family: Roboto;
+  clear: both;
+  p{
+    text-align: center;
+    a{
+      color: #DD4606;
+      &:hover {
+      color: darken(#DD4606, 10%);
+      }
+    }
+  }
+  .social{
+    .facebook, .twitter{
+      display: inline-block;
+      @include position(relative, 0 0 0 0);
+    }
+    .facebook{
+      top: -5px;
+    }
+    .twitter{
+      top: 1px;
+    }
+  }
+}
+

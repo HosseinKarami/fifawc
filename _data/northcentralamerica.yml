@@ -1,0 +1,10 @@
+- continent: آمریکای شمالی و مرکزی
+  teams:
+  - team: کاستاريکا
+    flag: assets/img/flags/crc.png
+  - team: هندوراس
+    flag: assets/img/flags/hon.png
+  - team: مکزیک
+    flag: assets/img/flags/mex.png
+  - team: آمریکا
+    flag: assets/img/flags/usa.png

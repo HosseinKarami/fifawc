@@ -1,0 +1,170 @@
+.main{
+  direction: rtl;
+  margin: 0 auto;
+  max-width: 1220px;
+  padding-left: 10px;
+  padding-right: 10px;
+  .matches{
+    h4{
+      font-family: Yekan;
+      font-size: 1.2rem;
+      line-height: 50px;
+      height: 50px;
+      padding-right: 10px;
+      border-bottom: solid 1px #474747;
+      color: #474747;
+    }
+    .row{
+      position: relative;
+      border-bottom: 1px solid #DCDCDC;
+      font-size: 12px;
+      line-height: 19px;
+      -webkit-transition: 100ms linear 0s;
+      -moz-transition: 100ms linear 0s;
+      -o-transition: 100ms linear 0s;
+      transition: 100ms linear 0s;
+      &:hover{
+        background-color: rgba(0, 0, 0, 0.03);
+      }
+    }
+    article{
+      &.info{
+        width: 380px;
+        min-height: 80px;
+        text-align: right;
+        float: none;
+        @include phone{
+          float: none;
+        }
+        @include tablet{
+          float: none;
+        }
+        @include desktop{
+          float: none;
+        }
+        @include largedesktop{
+          float: right;
+        }
+        @include biglargedesktop{
+          float: right;
+        }
+        h5,h6{
+          margin: 0;
+          font-family: Yekan, Roboto;
+          font-size: 1rem;
+          line-height: 26px;
+          color: #494949;
+          font-weight: 400;
+        }
+        h5:first-child{
+          font-weight: bold;
+        }
+      }
+      &.content{
+        margin-right: 0;
+        position: relative;
+        height: 5rem;
+        @include phone{
+          margin-right: 0;
+        }
+        @include tablet{
+          margin-right: 0;
+        }
+        @include desktop{
+          margin-right: 0;
+        }
+        @include largedesktop{
+          margin-right: 370px;
+        }
+        @include biglargedesktop{
+          margin-right: 370px;
+        }
+        .team-a{
+          img{
+            position: absolute;
+            right: 0;
+            top: 1rem;
+          }
+          span{
+            position: absolute;
+            right: 6rem;
+            top: 1.8rem;
+            font-size: 1rem;
+            font-family: Roboto, Yekan;
+            @include phone{
+              font-size: 1rem;
+            }
+            @include tablet{
+              font-size: 1rem;
+            }
+            @include desktop{
+              font-size: 2rem;
+            }
+            @include largedesktop{
+              font-size: 2rem;
+            }
+            @include biglargedesktop{
+              font-size: 2rem;
+            }
+          }
+        }
+        .time{
+          text-align: center;
+          width: 100%;
+          position: absolute;
+          top: 1.8rem;
+          span{
+            font-size: 1rem;
+            line-height: 26px;
+            font-family: Roboto;
+            color: #dd4606;
+            @include phone{
+              font-size: 1rem;
+            }
+            @include tablet{
+              font-size: 1rem;
+            }
+            @include desktop{
+              font-size: 27px;
+            }
+            @include largedesktop{
+              font-size: 27px;
+            }
+            @include biglargedesktop{
+              font-size: 27px;
+            }
+          }
+        }
+        .team-b{
+          span{
+            position: absolute;
+            left: 6rem;
+            top: 1.8rem;
+            font-size: 1rem;
+            font-family: Roboto, Yekan;
+            @include phone{
+              font-size: 1rem;
+            }
+            @include tablet{
+              font-size: 1rem;
+            }
+            @include desktop{
+              font-size: 2rem;
+            }
+            @include largedesktop{
+              font-size: 2rem;
+            }
+            @include biglargedesktop{
+              font-size: 2rem;
+            }
+          }
+          img{
+            position: absolute;
+            left: 0;
+            top: 1rem;
+          }
+        }
+      }
+    }
+  }
+}

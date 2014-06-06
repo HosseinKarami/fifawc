@@ -1,0 +1,311 @@
+- group: A
+  teams:
+  - team: برزیل
+    flag: assets/img/flags/bra.png
+    played: "0"
+    won: "0"
+    draw: "0"
+    lost: "0"
+    GF: "0"
+    GA: "0"
+    points: "0"
+  - team: کرواسی
+    flag: assets/img/flags/cro.png
+    played: "0"
+    won: "0"
+    draw: "0"
+    lost: "0"
+    GF: "0"
+    GA: "0"
+    points: "0"
+  - team: مکزیک
+    flag: assets/img/flags/mex.png
+    played: "0"
+    won: "0"
+    draw: "0"
+    lost: "0"
+    GF: "0"
+    GA: "0"
+    points: "0"
+  - team: کامرون
+    flag: assets/img/flags/cmr.png
+    played: "0"
+    won: "0"
+    draw: "0"
+    lost: "0"
+    GF: "0"
+    GA: "0"
+    points: "0"
+
+- group: B
+  teams:
+  - team: اسپانیا
+    flag: assets/img/flags/esp.png
+    played: "0"
+    won: "0"
+    draw: "0"
+    lost: "0"
+    GF: "0"
+    GA: "0"
+    points: "0"
+  - team: هلند
+    flag: assets/img/flags/ned.png
+    played: "0"
+    won: "0"
+    draw: "0"
+    lost: "0"
+    GF: "0"
+    GA: "0"
+    points: "0"
+  - team: شیلی
+    flag: assets/img/flags/chi.png
+    played: "0"
+    won: "0"
+    draw: "0"
+    lost: "0"
+    GF: "0"
+    GA: "0"
+    points: "0"
+  - team: استرالیا
+    flag: assets/img/flags/aus.png
+    played: "0"
+    won: "0"
+    draw: "0"
+    lost: "0"
+    GF: "0"
+    GA: "0"
+    points: "0"
+
+- group: C
+  teams:
+  - team: کلمبیا
+    flag: assets/img/flags/col.png
+    played: "0"
+    won: "0"
+    draw: "0"
+    lost: "0"
+    GF: "0"
+    GA: "0"
+    points: "0"
+  - team: یونان
+    flag: assets/img/flags/gre.png
+    played: "0"
+    won: "0"
+    draw: "0"
+    lost: "0"
+    GF: "0"
+    GA: "0"
+    points: "0"
+  - team: ساحل عاج
+    flag: assets/img/flags/civ.png
+    played: "0"
+    won: "0"
+    draw: "0"
+    lost: "0"
+    GF: "0"
+    GA: "0"
+    points: "0"
+  - team: ژاپن
+    flag: assets/img/flags/jpn.png
+    played: "0"
+    won: "0"
+    draw: "0"
+    lost: "0"
+    GF: "0"
+    GA: "0"
+    points: "0"
+
+- group: D
+  teams:
+  - team: اروگوئه
+    flag: assets/img/flags/uru.png
+    played: "0"
+    won: "0"
+    draw: "0"
+    lost: "0"
+    GF: "0"
+    GA: "0"
+    points: "0"
+  - team: کاستاريکا
+    flag: assets/img/flags/crc.png
+    played: "0"
+    won: "0"
+    draw: "0"
+    lost: "0"
+    GF: "0"
+    GA: "0"
+    points: "0"
+  - team: انگلیس
+    flag: assets/img/flags/eng.png
+    played: "0"
+    won: "0"
+    draw: "0"
+    lost: "0"
+    GF: "0"
+    GA: "0"
+    points: "0"
+  - team: ایتالیا
+    flag: assets/img/flags/ita.png
+    played: "0"
+    won: "0"
+    draw: "0"
+    lost: "0"
+    GF: "0"
+    GA: "0"
+    points: "0"
+
+- group: E
+  teams:
+  - team: سوئیس
+    flag: assets/img/flags/sui.png
+    played: "0"
+    won: "0"
+    draw: "0"
+    lost: "0"
+    GF: "0"
+    GA: "0"
+    points: "0"
+  - team: اکوادور
+    flag: assets/img/flags/ecu.png
+    played: "0"
+    won: "0"
+    draw: "0"
+    lost: "0"
+    GF: "0"
+    GA: "0"
+    points: "0"
+  - team: فرانسه
+    flag: assets/img/flags/fra.png
+    played: "0"
+    won: "0"
+    draw: "0"
+    lost: "0"
+    GF: "0"
+    GA: "0"
+    points: "0"
+  - team: هندوراس
+    flag: assets/img/flags/hon.png
+    played: "0"
+    won: "0"
+    draw: "0"
+    lost: "0"
+    GF: "0"
+    GA: "0"
+    points: "0"
+
+- group: F
+  teams:
+  - team: آرژانتین
+    flag: assets/img/flags/arg.png
+    played: "0"
+    won: "0"
+    draw: "0"
+    lost: "0"
+    GF: "0"
+    GA: "0"
+    points: "0"
+  - team: بوسني هرزگوين
+    flag: assets/img/flags/bih.png
+    played: "0"
+    won: "0"
+    draw: "0"
+    lost: "0"
+    GF: "0"
+    GA: "0"
+    points: "0"
+  - team: ایران
+    flag: assets/img/flags/irn.png
+    played: "0"
+    won: "0"
+    draw: "0"
+    lost: "0"
+    GF: "0"
+    GA: "0"
+    points: "0"
+  - team: نیجریه
+    flag: assets/img/flags/nga.png
+    played: "0"
+    won: "0"
+    draw: "0"
+    lost: "0"
+    GF: "0"
+    GA: "0"
+    points: "0"
+
+- group: G
+  teams:
+  - team: آلمان
+    flag: assets/img/flags/ger.png
+    played: "0"
+    won: "0"
+    draw: "0"
+    lost: "0"
+    GF: "0"
+    GA: "0"
+    points: "0"
+  - team: پرتغال
+    flag: assets/img/flags/por.png
+    played: "0"
+    won: "0"
+    draw: "0"
+    lost: "0"
+    GF: "0"
+    GA: "0"
+    points: "0"
+  - team: غنا
+    flag: assets/img/flags/gha.png
+    played: "0"
+    won: "0"
+    draw: "0"
+    lost: "0"
+    GF: "0"
+    GA: "0"
+    points: "0"
+  - team: آمریکا
+    flag: assets/img/flags/usa.png
+    played: "0"
+    won: "0"
+    draw: "0"
+    lost: "0"
+    GF: "0"
+    GA: "0"
+    points: "0"
+
+- group: H
+  teams:
+  - team: بلژیک
+    flag: assets/img/flags/bel.png
+    played: "0"
+    won: "0"
+    draw: "0"
+    lost: "0"
+    GF: "0"
+    GA: "0"
+    points: "0"
+  - team: الجزایر
+    flag: assets/img/flags/alg.png
+    played: "0"
+    won: "0"
+    draw: "0"
+    lost: "0"
+    GF: "0"
+    GA: "0"
+    points: "0"
+  - team: روسیه
+    flag: assets/img/flags/rus.png
+    played: "0"
+    won: "0"
+    draw: "0"
+    lost: "0"
+    GF: "0"
+    GA: "0"
+    points: "0"
+  - team: کره جنوبی
+    flag: assets/img/flags/kor.png
+    played: "0"
+    won: "0"
+    draw: "0"
+    lost: "0"
+    GF: "0"
+    GA: "0"
+    points: "0"

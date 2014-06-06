@@ -1,0 +1,28 @@
+- continent: اروپا
+  teams:
+  - team: بلژیک
+    flag: assets/img/flags/bel.png
+  - team: بوسني هرزگوين
+    flag: assets/img/flags/bih.png
+  - team: کرواسی
+    flag: assets/img/flags/cro.png
+  - team: انگلیس
+    flag: assets/img/flags/eng.png
+  - team: فرانسه
+    flag: assets/img/flags/fra.png
+  - team: آلمان
+    flag: assets/img/flags/ger.png
+  - team: یونان
+    flag: assets/img/flags/gre.png
+  - team: ایتالیا
+    flag: assets/img/flags/ita.png
+  - team: هلند
+    flag: assets/img/flags/ned.png
+  - team: پرتغال
+    flag: assets/img/flags/por.png
+  - team: روسیه
+    flag: assets/img/flags/rus.png
+  - team: اسپانیا
+    flag: assets/img/flags/esp.png
+  - team: سوئیس
+    flag: assets/img/flags/sui.png

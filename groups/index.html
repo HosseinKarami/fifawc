@@ -1,0 +1,39 @@
+---
+layout: default
+---
+<section class="group">
+      {% for item in site.data.groups %}
+  <section class="groups">
+    <h4>گروه {{ item.group }}</h4>
+    <div class="head">
+      <h4>تیم‌ها</h4>
+      <h4>بازی‌ها</h4>
+      <h4>برد</h4>
+      <h4>مساوی</h4>
+      <h4>باخت</h4>
+      <h4>گل زده</h4>
+      <h4>گل خورده</h4>
+      <h4>امتياز</h4>
+    </div>
+    {% for team in item.teams %}
+    <article class="rows">
+      <div>
+        <img src="../{{ team.flag }}" alt="{{ team.team }}">
+        <span>{{ team.team }}</span>
+      </div>
+      <div>{{ team.played }}</div>
+      <div>{{ team.won }}</div>
+      <div>{{ team.draw }}</div>
+      <div>{{ team.lost }}</div>
+      <div>{{ team.GF }}</div>
+      <div>{{ team.GA }}</div>
+      <div>{{ team.points }}</div>
+    </article>
+      {% endfor %}
+  </section>
+  <section class="link">
+    <a href="/groups/{{ item.group }}" class="details"><i data-icon="a"></i>مشخصات گروه</a>
+  </section>
+    {% endfor %}
+</section>
+

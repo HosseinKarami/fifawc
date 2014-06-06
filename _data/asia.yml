@@ -1,0 +1,10 @@
+- continent: آسیا
+  teams:
+  - team: استرالیا
+    flag: assets/img/flags/aus.png
+  - team: ایران
+    flag: assets/img/flags/irn.png
+  - team: ژاپن
+    flag: assets/img/flags/jpn.png
+  - team: کره جنوبی
+    flag: assets/img/flags/kor.png

@@ -1,0 +1,72 @@
+- stadiums: Arena Amazonia
+  stadium:
+  - year: "2013"
+    img: assets/img/destination/ArenaAmazonia.jpg
+    city: "Manaus"
+    capacity: "39118"
+- stadiums: Arena da Baixada
+  stadium:
+  - year: "1914"
+    img: assets/img/destination/ArenadaBaixada.jpg
+    city: "Curitiba"
+    capacity: "38533"
+- stadiums: Arena de Sao Paulo
+  stadium:
+  - year: "2014"
+    img: assets/img/destination/ArenadeSaoPaulo.jpg
+    city: "Sao Paulo"
+    capacity: "61606"
+- stadiums: Arena Fonte Nova
+  stadium:
+  - year: "1951"
+    img: assets/img/destination/ArenaFonteNova.jpg
+    city: "Salvador"
+    capacity: "51708"
+- stadiums: Arena Pantanal
+  stadium:
+  - year: "2014"
+    img: assets/img/destination/ArenaPantanal.jpg
+    city: "Cuiaba"
+    capacity: "39859"
+- stadiums: Arena Pernambuco
+  stadium:
+  - year: "2014"
+    img: assets/img/destination/ArenaPernambuco.jpg
+    city: "Recife"
+    capacity: "42583"
+- stadiums: Estadio Beira-Rio
+  stadium:
+  - year: "1969"
+    img: assets/img/destination/EstadioBeira-Rio.jpg
+    city: "Porto Alegre"
+    capacity: "42991"
+- stadiums: Estadio Castelao
+  stadium:
+  - year: "1973"
+    img: assets/img/destination/EstadioCastelao.jpg
+    city: "Fortaleza"
+    capacity: "60348"
+- stadiums: Estadio das Dunas
+  stadium:
+  - year: "1972"
+    img: assets/img/destination/EstadiodasDunas.jpg
+    city: "Natal"
+    capacity: "38958"
+- stadiums: Estadio Mineirao
+  stadium:
+  - year: "1965"
+    img: assets/img/destination/EstadioMineirao.jpg
+    city: "Belo Horizonte"
+    capacity: "58259"
+- stadiums: Estadio Nacional de Brasilia
+  stadium:
+  - year: "2012"
+    img: assets/img/destination/EstadioNacionalBrasilia.jpg
+    city: "Brasilia"
+    capacity: "69432"
+- stadiums: Estadio Do Maracana
+  stadium:
+  - year: "1950"
+    img: assets/img/destination/EstadioDoMaracana.jpg
+    city: "Rio de Janeiro"
+    capacity: "74689"

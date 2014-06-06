@@ -1,0 +1,720 @@
+- date: جمعه 23 خرداد
+  groups:
+  - group: گروه A
+    team1: برزیل
+    team2: کرواسی
+    flag1: assets/img/flags/bra.png
+    flag2: assets/img/flags/cro.png
+    pts1: "0"
+    pts2: "0"
+    time: "00:30"
+    stadium: Arena de Sao Paulo
+    city: Sao Paulo
+  - group: گروه A
+    team1: مکزیک
+    team2: کامرون
+    flag1: assets/img/flags/mex.png
+    flag2: assets/img/flags/cmr.png
+    pts1: "0"
+    pts2: "0"
+    time: "20:30"
+    stadium: Estadio das Dunas
+    city: Natal
+  - group: گروه B
+    team1: اسپانیا
+    team2: هلند
+    flag1: assets/img/flags/esp.png
+    flag2: assets/img/flags/ned.png
+    pts1: "0"
+    pts2: "0"
+    time: "23:30"
+    stadium: Arena Fonte Nova
+    city: Salvador
+
+- date: شنبه 24 خرداد
+  groups:
+  - group: گروه B
+    team1: شیلی
+    team2: استرالیا
+    flag1: assets/img/flags/chi.png
+    flag2: assets/img/flags/aus.png
+    pts1: "0"
+    pts2: "0"
+    time: "02:30"
+    stadium: Arena Pantanal
+    city: Cuiaba
+  - group: گروه C
+    team1: کلمبیا
+    team2: یونان
+    flag1: assets/img/flags/col.png
+    flag2: assets/img/flags/gre.png
+    pts1: "0"
+    pts2: "0"
+    time: "20:30"
+    stadium: Estadio Mineirao
+    city: Belo Horizonte
+  - group: گروه D
+    team1: اروگوئه
+    team2: کاستاريکا
+    flag1: assets/img/flags/uru.png
+    flag2: assets/img/flags/crc.png
+    pts1: "0"
+    pts2: "0"
+    time: "23:30"
+    stadium: Estadio Castelao
+    city: Fortaleza
+
+- date: يکشنبه 25 خرداد
+  groups:
+  - group: گروه D
+    team1: انگلیس
+    team2: ایتالیا
+    flag1: assets/img/flags/eng.png
+    flag2: assets/img/flags/ita.png
+    pts1: "0"
+    pts2: "0"
+    time: "02:30"
+    stadium: Arena Amazonia
+    city: Manaus
+  - group: گروه C
+    team1: ساحل عاج
+    team2: ژاپن
+    flag1: assets/img/flags/civ.png
+    flag2: assets/img/flags/jpn.png
+    pts1: "0"
+    pts2: "0"
+    time: "05:30"
+    stadium: Arena Pernambuco
+    city: Recife
+  - group: گروه E
+    team1: سوئيس
+    team2: اكوادور
+    flag1: assets/img/flags/sui.png
+    flag2: assets/img/flags/ecu.png
+    pts1: "0"
+    pts2: "0"
+    time: "20:30"
+    stadium: Estadio Nacional
+    city: Brasilia
+  - group: گروه E
+    team1: فرانسه
+    team2: هندوراس
+    flag1: assets/img/flags/fra.png
+    flag2: assets/img/flags/hon.png
+    pts1: "0"
+    pts2: "0"
+    time: "23:30"
+    stadium: Estadio Beira-Rio
+    city: Porto Alegre
+
+- date: دوشنبه 26 خرداد
+  groups:
+  - group: گروه F
+    team1: آرژانتين
+    team2: بوسني هرزگوين
+    flag1: assets/img/flags/arg.png
+    flag2: assets/img/flags/bih.png
+    pts1: "0"
+    pts2: "0"
+    time: "02:30"
+    stadium: Maracanã - Estádio Jornalista Mário Filho
+    city: Rio De Janeiro
+  - group: گروه G
+    team1: آلمان
+    team2: پرتغال
+    flag1: assets/img/flags/ger.png
+    flag2: assets/img/flags/por.png
+    pts1: "0"
+    pts2: "0"
+    time: "20:30"
+    stadium: Arena Fonte Nova
+    city: Salvador
+  - group: گروه F
+    team1: ايران
+    team2: نيجريه
+    flag1: assets/img/flags/irn.png
+    flag2: assets/img/flags/nga.png
+    pts1: "0"
+    pts2: "0"
+    time: "23:30"
+    stadium: Arena da Baixada
+    city: Curitiba
+
+- date: سه‌شنبه 27 خرداد
+  groups:
+  - group: گروه G
+    team1: غنا
+    team2: آمريكا
+    flag1: assets/img/flags/gha.png
+    flag2: assets/img/flags/usa.png
+    pts1: "0"
+    pts2: "0"
+    time: "02:30"
+    stadium: Estadio das Dunas
+    city: Natal
+  - group: گروه H
+    team1: بلژیک
+    team2: الجزاير
+    flag1: assets/img/flags/bel.png
+    flag2: assets/img/flags/alg.png
+    pts1: "0"
+    pts2: "0"
+    time: "20:30"
+    stadium: Estadio Mineirao
+    city: Belo Horizonte
+  - group: گروه A
+    team1: برزيل
+    team2: مکزيک
+    flag1: assets/img/flags/bra.png
+    flag2: assets/img/flags/mex.png
+    pts1: "0"
+    pts2: "0"
+    time: "23:30"
+    stadium: Estadio Castelao
+    city: Fortaleza
+
+- date: چهارشنبه 28 خرداد
+  groups:
+  - group: گروه H
+    team1: روسيه
+    team2: كره جنوبي
+    flag1: assets/img/flags/rus.png
+    flag2: assets/img/flags/kor.png
+    pts1: "0"
+    pts2: "0"
+    time: "02:30"
+    stadium: Arena Pantanal
+    city: Cuiaba
+  - group: گروه B
+    team1: استراليا
+    team2: هلند
+    flag1: assets/img/flags/aus.png
+    flag2: assets/img/flags/ned.png
+    pts1: "0"
+    pts2: "0"
+    time: "20:30"
+    stadium: Estadio Beira-Rio
+    city: Porto Alegre
+  - group: گروه B
+    team1: اسپانيا
+    team2: شيلي
+    flag1: assets/img/flags/esp.png
+    flag2: assets/img/flags/chi.png
+    pts1: "0"
+    pts2: "0"
+    time: "23:30"
+    stadium: Maracanã - Estádio Jornalista Mário Filho
+    city: Rio De Janeiro
+
+- date: پنج‌شنبه 29 خرداد
+  groups:
+  - group: گروه A
+    team1: کامرون
+    team2: كرواسي
+    flag1: assets/img/flags/cmr.png
+    flag2: assets/img/flags/cro.png
+    pts1: "0"
+    pts2: "0"
+    time: "02:30"
+    stadium: Arena Amazonia
+    city: Manaus
+  - group: گروه C
+    team1: كلمبيا
+    team2: ساحل عاج
+    flag1: assets/img/flags/col.png
+    flag2: assets/img/flags/civ.png
+    pts1: "0"
+    pts2: "0"
+    time: "20:30"
+    stadium: Estadio Nacional
+    city: Brasilia
+  - group: گروه D
+    team1: اروگوئه
+    team2: انگليس
+    flag1: assets/img/flags/uru.png
+    flag2: assets/img/flags/eng.png
+    pts1: "0"
+    pts2: "0"
+    time: "23:30"
+    stadium: Arena de Sao Paulo
+    city: Sao Paulo
+
+- date: جمعه 30 خرداد
+  groups:
+  - group: گروه C
+    team1: ژاپن
+    team2: يونان
+    flag1: assets/img/flags/jpn.png
+    flag2: assets/img/flags/gre.png
+    pts1: "0"
+    pts2: "0"
+    time: "02:30"
+    stadium: Estadio das Dunas
+    city: Natal
+  - group: گروه D
+    team1: ايتاليا
+    team2: کاستاريکا
+    flag1: assets/img/flags/ita.png
+    flag2: assets/img/flags/crc.png
+    pts1: "0"
+    pts2: "0"
+    time: "20:30"
+    stadium: Arena Pernambuco
+    city: Recife
+  - group: گروه E
+    team1: سوئيس
+    team2: فرانسه
+    flag1: assets/img/flags/sui.png
+    flag2: assets/img/flags/fra.png
+    pts1: "0"
+    pts2: "0"
+    time: "23:30"
+    stadium: Arena Fonte Nova
+    city: Salvador
+
+- date: شنبه 31 خرداد
+  groups:
+  - group: گروه E
+    team1: هندوراس
+    team2: اكوادور
+    flag1: assets/img/flags/hon.png
+    flag2: assets/img/flags/ecu.png
+    pts1: "0"
+    pts2: "0"
+    time: "02:30"
+    stadium: Arena da Baixada
+    city: Curitiba
+  - group: گروه F
+    team1: آرژانتين
+    team2: ايران
+    flag1: assets/img/flags/arg.png
+    flag2: assets/img/flags/irn.png
+    pts1: "0"
+    pts2: "0"
+    time: "20:30"
+    stadium: Estadio Mineirao
+    city: Belo Horizonte
+  - group: گروه G
+    team1: آلمان
+    team2: غنا
+    flag1: assets/img/flags/ger.png
+    flag2: assets/img/flags/gha.png
+    pts1: "0"
+    pts2: "0"
+    time: "23:30"
+    stadium: Estadio Castelao
+    city: Fortaleza
+
+- date: يکشنبه 01 تير
+  groups:
+  - group: گروه F
+    team1: نيجريه
+    team2: بوسني هرزگوين
+    flag1: assets/img/flags/nga.png
+    flag2: assets/img/flags/bih.png
+    pts1: "0"
+    pts2: "0"
+    time: "02:30"
+    stadium: Arena Pantanal
+    city: Cuiaba
+  - group: گروه H
+    team1: بلژیک
+    team2: روسيه
+    flag1: assets/img/flags/bel.png
+    flag2: assets/img/flags/rus.png
+    pts1: "0"
+    pts2: "0"
+    time: "20:30"
+    stadium: Maracanã - Estádio Jornalista Mário Filho
+    city: Rio De Janeiro
+  - group: گروه H
+    team1: كره جنوبي
+    team2: الجزاير
+    flag1: assets/img/flags/kor.png
+    flag2: assets/img/flags/alg.png
+    pts1: "0"
+    pts2: "0"
+    time: "23:30"
+    stadium: Estadio Beira-Rio
+    city: Porto Alegre
+
+- date: دوشنبه 02 تير
+  groups:
+  - group: گروه G
+    team1: آمريكا
+    team2: پرتغال
+    flag1: assets/img/flags/usa.png
+    flag2: assets/img/flags/por.png
+    pts1: "0"
+    pts2: "0"
+    time: "02:30"
+    stadium: Arena Amazonia
+    city: Manaus
+  - group: گروه B
+    team1: هلند
+    team2: شيلي
+    flag1: assets/img/flags/ned.png
+    flag2: assets/img/flags/chi.png
+    pts1: "0"
+    pts2: "0"
+    time: "20:30"
+    stadium: Arena de Sao Paulo
+    city: Sao Paulo
+  - group: گروه B
+    team1: استراليا
+    team2: اسپانيا
+    flag1: assets/img/flags/aus.png
+    flag2: assets/img/flags/esp.png
+    pts1: "0"
+    pts2: "0"
+    time: "20:30"
+    stadium: Arena da Baixada
+    city: Curitiba
+
+- date: سه‌شنبه 03 تير
+  groups:
+  - group: گروه A
+    team1: کامرون
+    team2: برزيل
+    flag1: assets/img/flags/cmr.png
+    flag2: assets/img/flags/bra.png
+    pts1: "0"
+    pts2: "0"
+    time: "00:30"
+    stadium: Estadio Nacional
+    city: Brasilia
+  - group: گروه A
+    team1: كرواسي
+    team2: مکزيک
+    flag1: assets/img/flags/cro.png
+    flag2: assets/img/flags/mex.png
+    pts1: "0"
+    pts2: "0"
+    time: "00:30"
+    stadium: Arena Pernambuco
+    city: Recife
+  - group: گروه D
+    team1: ايتاليا
+    team2: اروگوئه
+    flag1: assets/img/flags/ita.png
+    flag2: assets/img/flags/uru.png
+    pts1: "0"
+    pts2: "0"
+    time: "20:30"
+    stadium: Estadio das Dunas
+    city: Natal
+  - group: گروه D
+    team1: کاستاريکا
+    team2: انگليس
+    flag1: assets/img/flags/crc.png
+    flag2: assets/img/flags/eng.png
+    pts1: "0"
+    pts2: "0"
+    time: "20:30"
+    stadium: Estadio Mineirao
+    city: Belo Horizonte
+
+- date: چهارشنبه 04 تير
+  groups:
+  - group: گروه C
+    team1: ژاپن
+    team2: كلمبيا
+    flag1: assets/img/flags/jpn.png
+    flag2: assets/img/flags/col.png
+    pts1: "0"
+    pts2: "0"
+    time: "00:30"
+    stadium: Arena Pantanal
+    city: Cuiaba
+  - group: گروه C
+    team1: يونان
+    team2: ساحل عاج
+    flag1: assets/img/flags/gre.png
+    flag2: assets/img/flags/civ.png
+    pts1: "0"
+    pts2: "0"
+    time: "00:30"
+    stadium: Estadio Castelao
+    city: Fortaleza
+  - group: گروه F
+    team1: نيجريه
+    team2: آرژانتين
+    flag1: assets/img/flags/nga.png
+    flag2: assets/img/flags/arg.png
+    pts1: "0"
+    pts2: "0"
+    time: "20:30"
+    stadium: Estadio Beira-Rio
+    city: Porto Alegre
+  - group: گروه F
+    team1: بوسني هرزگوين
+    team2: ايران
+    flag1: assets/img/flags/bih.png
+    flag2: assets/img/flags/irn.png
+    pts1: "0"
+    pts2: "0"
+    time: "20:30"
+    stadium: Arena Fonte Nova
+    city: Salvador
+
+- date: پنج‌شنبه 05 تير
+  groups:
+  - group: گروه E
+    team1: هندوراس
+    team2: سوئيس
+    flag1: assets/img/flags/hon.png
+    flag2: assets/img/flags/sui.png
+    pts1: "0"
+    pts2: "0"
+    time: "00:30"
+    stadium: Arena Amazonia
+    city: Manaus
+  - group: گروه E
+    team1: اكوادور
+    team2: فرانسه
+    flag1: assets/img/flags/ecu.png
+    flag2: assets/img/flags/fra.png
+    pts1: "0"
+    pts2: "0"
+    time: "00:30"
+    stadium: Maracanã - Estádio Jornalista Mário Filho
+    city: Rio De Janeiro
+  - group: گروه G
+    team1: پرتغال
+    team2: غنا
+    flag1: assets/img/flags/por.png
+    flag2: assets/img/flags/gha.png
+    pts1: "0"
+    pts2: "0"
+    time: "20:30"
+    stadium: Estadio Nacional
+    city: Brasilia
+  - group: گروه G
+    team1: آمريكا
+    team2: آلمان
+    flag1: assets/img/flags/usa.png
+    flag2: assets/img/flags/ger.png
+    pts1: "0"
+    pts2: "0"
+    time: "20:30"
+    stadium: Arena Pernambuco
+    city: Recife
+
+- date: جمعه 06 تير
+  groups:
+  - group: گروه H
+    team1: كره جنوبي
+    team2: بلژیک
+    flag1: assets/img/flags/kor.png
+    flag2: assets/img/flags/bel.png
+    pts1: "0"
+    pts2: "0"
+    time: "00:30"
+    stadium: Arena de Sao Paulo
+    city: Sao Paulo
+  - group: گروه H
+    team1: الجزاير
+    team2: روسيه
+    flag1: assets/img/flags/alg.png
+    flag2: assets/img/flags/rus.png
+    pts1: "0"
+    pts2: "0"
+    time: "00:30"
+    stadium: Arena da Baixada
+    city: Curitiba
+
+- date: شنبه 07 تیر
+  groups:
+  - group: يک هشتم نهايي
+    team1: "[1A]"
+    team2: "[2B]"
+    flag1: assets/img/flags/blank.png
+    flag2: assets/img/flags/blank.png
+    pts1: "0"
+    pts2: "0"
+    time: "20:30"
+    stadium: Estadio Mineirao
+    city: Belo Horizonte
+
+- date: یکشنبه 08 تیر
+  groups:
+  - group: يک هشتم نهايي
+    team1: "[1C]"
+    team2: "[2D]"
+    flag1: assets/img/flags/blank.png
+    flag2: assets/img/flags/blank.png
+    pts1: "0"
+    pts2: "0"
+    time: "00:30"
+    stadium: Maracanã - Estádio Jornalista Mário Filho
+    city: Rio De Janeiro
+  - group: يک هشتم نهايي
+    team1: "[1B]"
+    team2: "[2A]"
+    flag1: assets/img/flags/blank.png
+    flag2: assets/img/flags/blank.png
+    pts1: "0"
+    pts2: "0"
+    time: "20:30"
+    stadium: Estadio Castelao
+    city: Fortaleza
+
+- date: دوشنبه 09 تیر
+  groups:
+  - group: يک هشتم نهايي
+    team1: "[1D]"
+    team2: "[2C]"
+    flag1: assets/img/flags/blank.png
+    flag2: assets/img/flags/blank.png
+    pts1: "0"
+    pts2: "0"
+    time: "00:30"
+    stadium: Arena Pernambuco
+    city: Recife
+  - group: يک هشتم نهايي
+    team1: "[1E]"
+    team2: "[2F]"
+    flag1: assets/img/flags/blank.png
+    flag2: assets/img/flags/blank.png
+    pts1: "0"
+    pts2: "0"
+    time: "20:30"
+    stadium: Estadio Nacional
+    city: Brasilia
+
+- date: سه‌شنبه 10 تیر
+  groups:
+  - group: يک هشتم نهايي
+    team1: "[1G]"
+    team2: "[2H]"
+    flag1: assets/img/flags/blank.png
+    flag2: assets/img/flags/blank.png
+    pts1: "0"
+    pts2: "0"
+    time: "00:30"
+    stadium: Estadio Beira-Rio
+    city: Porto Alegre
+  - group: يک هشتم نهايي
+    team1: "[1F]"
+    team2: "[2E]"
+    flag1: assets/img/flags/blank.png
+    flag2: assets/img/flags/blank.png
+    pts1: "0"
+    pts2: "0"
+    time: "20:30"
+    stadium: Arena de Sao Paulo
+    city: Sao Paulo
+
+- date: چهارشنبه 11 تیر
+  groups:
+  - group: يک هشتم نهايي
+    team1: "[1H]"
+    team2: "[2G]"
+    flag1: assets/img/flags/blank.png
+    flag2: assets/img/flags/blank.png
+    pts1: "0"
+    pts2: "0"
+    time: "00:30"
+    stadium: Arena Fonte Nova
+    city: Salvador
+
+- date: جمعه 13 تیر
+  groups:
+  - group: يک چهارم نهايي
+    team1: "[W53]"
+    team2: "[W54]"
+    flag1: assets/img/flags/blank.png
+    flag2: assets/img/flags/blank.png
+    pts1: "0"
+    pts2: "0"
+    time: "20:30"
+    stadium: Maracanã - Estádio Jornalista Mário Filho
+    city: Rio De Janeiro
+
+- date: شنبه 14 تیر
+  groups:
+  - group: يک چهارم نهايي
+    team1: "[W49]"
+    team2: "[W50]"
+    flag1: assets/img/flags/blank.png
+    flag2: assets/img/flags/blank.png
+    pts1: "0"
+    pts2: "0"
+    time: "00:30"
+    stadium: Estadio Castelao
+    city: Fortaleza
+  - group: يک چهارم نهايي
+    team1: "[W55]"
+    team2: "[W56]"
+    flag1: assets/img/flags/blank.png
+    flag2: assets/img/flags/blank.png
+    pts1: "0"
+    pts2: "0"
+    time: "20:30"
+    stadium: Estadio Nacional
+    city: Brasilia
+
+- date: یکشنبه 15 تیر
+  groups:
+  - group: يک چهارم نهايي
+    team1: "[W51]"
+    team2: "[W52]"
+    flag1: assets/img/flags/blank.png
+    flag2: assets/img/flags/blank.png
+    pts1: "0"
+    pts2: "0"
+    time: "00:30"
+    stadium: Arena Fonte Nova
+    city: Salvador
+
+- date: چهارشنبه 18 تیر
+  groups:
+  - group: نيمه نهايي
+    team1: "[W57]"
+    team2: "[W58]"
+    flag1: assets/img/flags/blank.png
+    flag2: assets/img/flags/blank.png
+    pts1: "0"
+    pts2: "0"
+    time: "00:30"
+    stadium: Estadio Mineirao
+    city: Belo Horizonte
+
+- date: پنجشنبه 19 تیر
+  groups:
+  - group: نيمه نهايي
+    team1: "[W59]"
+    team2: "[W60]"
+    flag1: assets/img/flags/blank.png
+    flag2: assets/img/flags/blank.png
+    pts1: "0"
+    pts2: "0"
+    time: "00:30"
+    stadium: Arena de Sao Paulo
+    city: Sao Paulo
+
+- date: یکشنبه 22 تیر
+  groups:
+  - group: رده بندی
+    team1: "[L61]"
+    team2: "[L62]"
+    flag1: assets/img/flags/blank.png
+    flag2: assets/img/flags/blank.png
+    pts1: "0"
+    pts2: "0"
+    time: "00:30"
+    stadium: Estadio Nacional
+    city: Brasilia
+
+- date: یکشنبه 22 تیر
+  groups:
+  - group: فینال
+    team1: "[W61]"
+    team2: "[W62]"
+    flag1: assets/img/flags/blank.png
+    flag2: assets/img/flags/blank.png
+    pts1: "0"
+    pts2: "0"
+    time: "23:30"
+    stadium: Maracanã - Estádio Jornalista Mário Filho
+    city: Rio De Janeiro

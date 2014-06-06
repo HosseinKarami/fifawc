@@ -1,0 +1,29 @@
+---
+layout: default
+---
+<section class="matches">
+    {% for item in site.data.matches %}
+    <h4>{{ item.date }}</h4>
+      {% for itm in item.groups %}
+    <div class="row">
+      <article class="info">
+        <h5>{{ itm.group }}</h5>
+        <h5>ورزشگاه {{ itm.stadium }}</h5>
+        <h6>شهر {{ itm.city }}</h6>
+      </article>
+      <article class="content">
+        <div class="team-a">
+          <img src="{{ itm.flag1}}" alt="{{ itm.team1 }}">
+          <span>{{ itm.team1 }}</span>
+        </div>
+        <div class="time"><span>{{ itm.time }}</span></div>
+        <div class="team-b">
+          <span>{{ itm.team2 }}</span>
+          <img src="{{ itm.flag2}}" alt="{{ itm.team2 }}">
+        </div>
+      </article>
+    </div>
+      {% endfor %}
+    {% endfor %}
+  </section>
+

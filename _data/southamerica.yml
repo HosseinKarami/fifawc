@@ -1,0 +1,14 @@
+- continent: آمریکای جنوبی
+  teams:
+  - team: آرژانتین
+    flag: assets/img/flags/arg.png
+  - team: برزیل
+    flag: assets/img/flags/bra.png
+  - team: شیلی
+    flag: assets/img/flags/chi.png
+  - team: کلمبیا
+    flag: assets/img/flags/col.png
+  - team: اکوادور
+    flag: assets/img/flags/ecu.png
+  - team: اروگوئه
+    flag: assets/img/flags/uru.png

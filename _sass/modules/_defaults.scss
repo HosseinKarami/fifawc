@@ -1,0 +1,18 @@
+* {
+  -webkit-font-smoothing:antialiased;
+  font-smoothing:antialiased;
+  -webkit-font-smoothing:antialiased;
+  text-rendering:optimizeLegibility;
+  @include vendor(box-sizing, border-box);
+}
+html {
+  font-size:100%;
+}
+body {
+  overflow-x: hidden;
+  font:1em/1.5 'Yekan','Roboto','Helvetica Neue', Helvetica, Arial;
+  background: white;
+  color:#292929;
+  width: 100%;
+}
+

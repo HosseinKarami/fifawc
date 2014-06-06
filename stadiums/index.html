@@ -1,0 +1,21 @@
+---
+layout: default
+---
+<section class="stadiums">
+  {% for item in site.data.stadiums %}
+  <section class="stadium">
+    {% for items in item.stadium %}
+    <article class="info">
+      <h2>ورزشگاه {{ item.stadiums }}</h2>
+      <h5>شهر{{ items.city }}</h5>
+      <h5>سال ساخت {{ items.year }}</h5>
+      <h5>ظرفیت {{ items.capacity }}</h5>
+    </article>
+    <article class="img">
+      <img src="../{{ items.img }}" alt="{{ items.stadiums }}">
+    </article>
+      {% endfor %}
+  </section>
+  {% endfor %}
+</section>
+

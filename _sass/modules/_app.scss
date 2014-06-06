@@ -1,0 +1,299 @@
+.group{
+  .groups{
+    display: table;
+    direction: rtl;
+    margin: 0 auto;
+    width: 100%;
+    padding: 1rem .6rem;
+
+    h4{
+      text-align: right;
+      font-size: 1rem;
+      line-height: 1.54;
+      font-weight: 700;
+      margin: 0;
+      padding: 1rem 0 0;
+      color: #494949;
+      @include phone{
+        font-size: 1rem;
+      }
+      @include tablet{
+        font-size: 1rem;
+      }
+      @include desktop{
+        font-size: 1.3875rem;
+      }
+      @include largedesktop{
+        font-size: 1.3875rem;
+      }
+      @include biglargedesktop{
+        font-size: 1.3875rem;
+      }
+    }
+    .head{
+      vertical-align: middle;
+      display: table-row;
+      h4{
+        display: table-cell;
+        border-bottom: 1px solid #494949;
+        padding: 8px 1.6px;
+        padding: .5rem .1rem;
+        font-weight: 300;
+        width: 40px;
+        text-align: center;
+        font-family: Yekan;
+        &:first-child{
+          text-align: right;
+          width: 120px;
+        }
+      }
+    }
+    .rows{
+      display: table-row;
+      -webkit-transition: 100ms linear 0s;
+      -moz-transition: 100ms linear 0s;
+      -o-transition: 100ms linear 0s;
+      transition: 100ms linear 0s;
+      &:hover{
+          background-color: rgba(0, 0, 0, 0.03);
+        }
+      div{
+        display: table-cell;
+        vertical-align: middle;
+        padding: 8px 1.6px;
+        padding: .5rem .1rem;
+        text-align: center;
+        font-family: Roboto, Yekan;
+        border-bottom: 1px solid #DCDCDC;
+        &:first-child{
+          text-align: right;
+          position: relative;
+          img{
+            position: relative;
+            top: 3px;
+          }
+          span{
+            font-family: Yekan;
+            position: absolute;
+            top: 12px;
+            right: 90px;
+            font-size: 1rem;
+            @include phone{
+              font-size: 1rem;
+            }
+            @include tablet{
+              font-size: 1rem;
+            }
+            @include desktop{
+              font-size: 1.6875rem;
+            }
+            @include largedesktop{
+              font-size: 1.6875rem;
+            }
+            @include biglargedesktop{
+              font-size: 1.6875rem;
+            }
+          }
+        }
+      }
+    }
+  }
+  .link{
+    width: 100%;
+    direction: ltr;
+    padding: .5rem 0 0 0rem;
+    @include phone{
+      padding: .5rem 0 0 0rem;
+    }
+    @include tablet{
+      padding: .5rem 0 0 0rem;
+    }
+    @include desktop{
+      padding: .5rem 0 0 0rem;
+    }
+    @include largedesktop{
+      padding: .5rem 0 0 0rem;
+    }
+    @include biglargedesktop{
+      padding: .5rem 0 0 0rem;
+    }
+    .details{
+      text-decoration: none;
+      display: block;
+      height: 38px;
+      line-height: 38px;
+      background-color: #C88937;
+      text-align: right;
+      color: #FFF;
+      width: 100%;
+      cursor: pointer;
+      border-radius: 4px;
+      font-weight: normal;
+      font-size: 1.2rem;
+      -webkit-transition: 100ms linear 0s;
+      -moz-transition: 100ms linear 0s;
+      -o-transition: 100ms linear 0s;
+      transition: 100ms linear 0s;
+      position: relative;
+      padding-right: 10px;
+      @include phone{
+        width: 100%;
+      }
+      @include tablet{
+        width: 100%;
+      }
+      @include desktop{
+        width: 9.5rem;
+      }
+      @include largedesktop{
+        width: 9.5rem;
+      }
+      @include biglargedesktop{
+        width: 9.5rem;
+      }
+      &:hover{
+        background-color: darken(#C88937 , 20%);
+      }
+      i{
+        position: absolute;
+        left: 6px;
+        top: 6px;
+      }
+    }
+  }
+}
+
+.stadiums{
+  .stadium{
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 1220px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 3rem;
+
+    .info{
+      float: right;
+      width: 100%;
+      padding-top: 3rem;
+      padding-bottom: 1rem;
+      @include phone{
+        width: 100%;
+      }
+      @include tablet{
+        width: 100%;
+      }
+      @include desktop{
+        width: 100%;
+      }
+      @include largedesktop{
+        width: 35%;
+      }
+      @include biglargedesktop{
+        width: 35%;
+      }
+      h2{
+        font-family: Roboto, Yekan;
+        font-size: 1.5rem;
+        line-height: 4rem;
+        font-weight: 400;
+        margin: 0;
+        color: #494949;
+      }
+      h5{
+        @extend h2;
+        font-size: 1.2rem;
+        line-height: 2.5rem;
+      }
+    }
+    .img{
+      float: right;
+      width: 100%;;
+
+      @include phone{
+        width: 100%;
+      }
+      @include tablet{
+        width: 100%;
+      }
+      @include desktop{
+        width: 100%;
+      }
+      @include largedesktop{
+        width: 65%;
+      }
+      @include biglargedesktop{
+        width: 65%;
+      }
+      img{
+        width: 100%;
+      }
+    }
+  }
+}
+
+.teams{
+  .team{
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 1220px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 3rem;
+    .heads{
+      float: right;
+      width: 100%;
+      -webkit-transition: 100ms linear 0s;
+      -moz-transition: 100ms linear 0s;
+      -o-transition: 100ms linear 0s;
+      transition: 100ms linear 0s;
+      @include phone{
+        width: 100%;
+      }
+      @include tablet{
+        width: 100%;
+      }
+      @include desktop{
+        width: 50%;
+      }
+      @include largedesktop{
+        width: 25%;
+      }
+      @include biglargedesktop{
+        width: 25%;
+      }
+      &:hover{
+        background-color: rgba(0, 0, 0, 0.03);
+      }
+      h4{
+        font-size: 1.5rem;
+        line-height: 14px;
+        vertical-align: middle;
+        height: 30px;
+        text-align: center;
+        font-weight: normal;
+      }
+      .lists{
+        list-style: none;
+        li{
+          height: 70px;
+          position: relative;
+          img{
+            position: absolute;
+            right: 0;
+            top: 0;
+            margin: 7px 10px;
+          }
+          span{
+            font-size: 1.5rem;
+            line-height: 14px;
+            vertical-align: middle;
+            display: table-cell;
+            padding-right: 90px;
+            height: 52px;
+          }
+        }
+      }
+    }
+  }
+}
