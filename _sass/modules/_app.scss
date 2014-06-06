@@ -4,18 +4,18 @@
     direction: rtl;
     margin: 0 auto;
     width: 100%;
-    padding: 1rem .6rem;
+    padding: 1rem 0;
 
     h4{
       text-align: right;
-      font-size: 1rem;
+      font-size: .8rem;
       line-height: 1.54;
       font-weight: 700;
       margin: 0;
       padding: 1rem 0 0;
       color: #494949;
       @include phone{
-        font-size: 1rem;
+        font-size: .8rem;
       }
       @include tablet{
         font-size: 1rem;
@@ -72,26 +72,58 @@
           img{
             position: relative;
             top: 3px;
+            margin-left: 1.5rem;
+            width: 32px;
+            @include phone{
+              margin-left: 1.5rem;
+              width: 32px;
+            }
+            @include tablet{
+              margin-left: 0;
+              width: 70px;
+            }
+            @include desktop{
+              margin-left: 0;
+              width: 70px;
+            }
+            @include largedesktop{
+              margin-left: 0;
+              width: 70px;
+            }
+            @include biglargedesktop{
+              margin-left: 0;
+              width: 70px;
+            }
           }
           span{
             font-family: Yekan;
             position: absolute;
-            top: 12px;
-            right: 90px;
-            font-size: 1rem;
+            top: 14px;
+            right: 36px;
+            font-size: 0.7rem;
             @include phone{
-              font-size: 1rem;
+              top: 14px;
+              right: 36px;
+              font-size: 0.7rem;
             }
             @include tablet{
-              font-size: 1rem;
+              top: 12px;
+              right: 90px;
+              font-size: 1.5rem;
             }
             @include desktop{
+              top: 12px;
+              right: 90px;
               font-size: 1.6875rem;
             }
             @include largedesktop{
+              top: 12px;
+              right: 90px;
               font-size: 1.6875rem;
             }
             @include biglargedesktop{
+              top: 12px;
+              right: 90px;
               font-size: 1.6875rem;
             }
           }
