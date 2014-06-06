@@ -83,27 +83,53 @@
           img{
             position: absolute;
             right: 0;
-            top: 1rem;
+            top: 1.5rem;
+            width: 53px;
+            @include phone{
+              top: 1.5rem;
+              width: 53px;
+            }
+            @include tablet{
+              top: 1rem;
+              width: 70px;
+            }
+            @include desktop{
+              top: 1rem;
+              width: 70px;
+            }
+            @include largedesktop{
+              top: 1rem;
+              width: 70px;
+            }
+            @include biglargedesktop{
+              top: 1rem;
+              width: 70px;
+            }
           }
           span{
             position: absolute;
-            right: 6rem;
+            right: 4rem;
             top: 1.8rem;
             font-size: 1rem;
             font-family: Roboto, Yekan;
             @include phone{
+              right: 4rem;
               font-size: 1rem;
             }
             @include tablet{
+              right: 6rem;
               font-size: 1rem;
             }
             @include desktop{
+              right: 6rem;
               font-size: 2rem;
             }
             @include largedesktop{
+              right: 6rem;
               font-size: 2rem;
             }
             @include biglargedesktop{
+              right: 6rem;
               font-size: 2rem;
             }
           }
@@ -138,30 +164,56 @@
         .team-b{
           span{
             position: absolute;
-            left: 6rem;
+            left: 4rem;
             top: 1.8rem;
             font-size: 1rem;
             font-family: Roboto, Yekan;
             @include phone{
+              left: 4rem;
               font-size: 1rem;
             }
             @include tablet{
+              left: 6rem;
               font-size: 1rem;
             }
             @include desktop{
+              left: 6rem;
               font-size: 2rem;
             }
             @include largedesktop{
+              left: 6rem;
               font-size: 2rem;
             }
             @include biglargedesktop{
+              left: 6rem;
               font-size: 2rem;
             }
           }
           img{
             position: absolute;
             left: 0;
-            top: 1rem;
+            top: 1.5rem;
+            width: 53px;
+            @include phone{
+              top: 1.5rem;
+              width: 53px;
+            }
+            @include tablet{
+              top: 1rem;
+              width: 70px;
+            }
+            @include desktop{
+              top: 1rem;
+              width: 70px;
+            }
+            @include largedesktop{
+              top: 1rem;
+              width: 70px;
+            }
+            @include biglargedesktop{
+              top: 1rem;
+              width: 70px;
+            }
           }
         }
       }
