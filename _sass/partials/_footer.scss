@@ -4,6 +4,22 @@ footer {
   color: #494949;
   font-family: Roboto;
   clear: both;
+  display: none;
+  @include phone{
+    display: none;
+  }
+  @include tablet{
+    display: none;
+  }
+  @include desktop{
+    display: block;
+  }
+  @include largedesktop{
+    display: block;
+  }
+  @include biglargedesktop{
+    display: block;
+  }
   p{
     text-align: center;
     a{
