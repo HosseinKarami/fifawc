@@ -16,7 +16,7 @@ layout: default
           <img src="{{ itm.flag1}}" alt="{{ itm.team1 }}">
           <span>{{ itm.team1 }}</span>
         </div>
-        <div class="time"><span>{{ itm.time }}</span></div>
+        <div class="time"><span>{% if  itm.pts1 == 'zero' %}{{ itm.time }} {% else %} {{ itm.pts1 }} - {{ itm.pts2 }} {% endif %}</span></div>
         <div class="team-b">
           <span>{{ itm.team2 }}</span>
           <img src="{{ itm.flag2}}" alt="{{ itm.team2 }}">

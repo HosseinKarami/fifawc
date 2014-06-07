@@ -5,7 +5,7 @@
     team2: کرواسی
     flag1: assets/img/flags/bra.png
     flag2: assets/img/flags/cro.png
-    pts1: "0"
+    pts1: "zero"
     pts2: "0"
     time: "00:30"
     stadium: Arena de Sao Paulo
@@ -15,7 +15,7 @@
     team2: کامرون
     flag1: assets/img/flags/mex.png
     flag2: assets/img/flags/cmr.png
-    pts1: "0"
+    pts1: "zero"
     pts2: "0"
     time: "20:30"
     stadium: Estadio das Dunas
@@ -25,7 +25,7 @@
     team2: هلند
     flag1: assets/img/flags/esp.png
     flag2: assets/img/flags/ned.png
-    pts1: "0"
+    pts1: "zero"
     pts2: "0"
     time: "23:30"
     stadium: Arena Fonte Nova
@@ -38,7 +38,7 @@
     team2: استرالیا
     flag1: assets/img/flags/chi.png
     flag2: assets/img/flags/aus.png
-    pts1: "0"
+    pts1: "zero"
     pts2: "0"
     time: "02:30"
     stadium: Arena Pantanal
@@ -48,7 +48,7 @@
     team2: یونان
     flag1: assets/img/flags/col.png
     flag2: assets/img/flags/gre.png
-    pts1: "0"
+    pts1: "zero"
     pts2: "0"
     time: "20:30"
     stadium: Estadio Mineirao
@@ -58,7 +58,7 @@
     team2: کاستاريکا
     flag1: assets/img/flags/uru.png
     flag2: assets/img/flags/crc.png
-    pts1: "0"
+    pts1: "zero"
     pts2: "0"
     time: "23:30"
     stadium: Estadio Castelao
@@ -71,7 +71,7 @@
     team2: ایتالیا
     flag1: assets/img/flags/eng.png
     flag2: assets/img/flags/ita.png
-    pts1: "0"
+    pts1: "zero"
     pts2: "0"
     time: "02:30"
     stadium: Arena Amazonia
@@ -81,7 +81,7 @@
     team2: ژاپن
     flag1: assets/img/flags/civ.png
     flag2: assets/img/flags/jpn.png
-    pts1: "0"
+    pts1: "zero"
     pts2: "0"
     time: "05:30"
     stadium: Arena Pernambuco
@@ -91,7 +91,7 @@
     team2: اكوادور
     flag1: assets/img/flags/sui.png
     flag2: assets/img/flags/ecu.png
-    pts1: "0"
+    pts1: "zero"
     pts2: "0"
     time: "20:30"
     stadium: Estadio Nacional
@@ -101,7 +101,7 @@
     team2: هندوراس
     flag1: assets/img/flags/fra.png
     flag2: assets/img/flags/hon.png
-    pts1: "0"
+    pts1: "zero"
     pts2: "0"
     time: "23:30"
     stadium: Estadio Beira-Rio
@@ -114,7 +114,7 @@
     team2: بوسني هرزگوين
     flag1: assets/img/flags/arg.png
     flag2: assets/img/flags/bih.png
-    pts1: "0"
+    pts1: "zero"
     pts2: "0"
     time: "02:30"
     stadium: Maracanã - Estádio Jornalista Mário Filho
@@ -124,7 +124,7 @@
     team2: پرتغال
     flag1: assets/img/flags/ger.png
     flag2: assets/img/flags/por.png
-    pts1: "0"
+    pts1: "zero"
     pts2: "0"
     time: "20:30"
     stadium: Arena Fonte Nova
@@ -134,7 +134,7 @@
     team2: نيجريه
     flag1: assets/img/flags/irn.png
     flag2: assets/img/flags/nga.png
-    pts1: "0"
+    pts1: "zero"
     pts2: "0"
     time: "23:30"
     stadium: Arena da Baixada
@@ -147,7 +147,7 @@
     team2: آمريكا
     flag1: assets/img/flags/gha.png
     flag2: assets/img/flags/usa.png
-    pts1: "0"
+    pts1: "zero"
     pts2: "0"
     time: "02:30"
     stadium: Estadio das Dunas
@@ -157,7 +157,7 @@
     team2: الجزاير
     flag1: assets/img/flags/bel.png
     flag2: assets/img/flags/alg.png
-    pts1: "0"
+    pts1: "zero"
     pts2: "0"
     time: "20:30"
     stadium: Estadio Mineirao
@@ -167,7 +167,7 @@
     team2: مکزيک
     flag1: assets/img/flags/bra.png
     flag2: assets/img/flags/mex.png
-    pts1: "0"
+    pts1: "zero"
     pts2: "0"
     time: "23:30"
     stadium: Estadio Castelao
@@ -180,7 +180,7 @@
     team2: كره جنوبي
     flag1: assets/img/flags/rus.png
     flag2: assets/img/flags/kor.png
-    pts1: "0"
+    pts1: "zero"
     pts2: "0"
     time: "02:30"
     stadium: Arena Pantanal
@@ -190,7 +190,7 @@
     team2: هلند
     flag1: assets/img/flags/aus.png
     flag2: assets/img/flags/ned.png
-    pts1: "0"
+    pts1: "zero"
     pts2: "0"
     time: "20:30"
     stadium: Estadio Beira-Rio
@@ -200,7 +200,7 @@
     team2: شيلي
     flag1: assets/img/flags/esp.png
     flag2: assets/img/flags/chi.png
-    pts1: "0"
+    pts1: "zero"
     pts2: "0"
     time: "23:30"
     stadium: Maracanã - Estádio Jornalista Mário Filho
@@ -213,7 +213,7 @@
     team2: كرواسي
     flag1: assets/img/flags/cmr.png
     flag2: assets/img/flags/cro.png
-    pts1: "0"
+    pts1: "zero"
     pts2: "0"
     time: "02:30"
     stadium: Arena Amazonia
@@ -223,7 +223,7 @@
     team2: ساحل عاج
     flag1: assets/img/flags/col.png
     flag2: assets/img/flags/civ.png
-    pts1: "0"
+    pts1: "zero"
     pts2: "0"
     time: "20:30"
     stadium: Estadio Nacional
@@ -233,7 +233,7 @@
     team2: انگليس
     flag1: assets/img/flags/uru.png
     flag2: assets/img/flags/eng.png
-    pts1: "0"
+    pts1: "zero"
     pts2: "0"
     time: "23:30"
     stadium: Arena de Sao Paulo
@@ -246,7 +246,7 @@
     team2: يونان
     flag1: assets/img/flags/jpn.png
     flag2: assets/img/flags/gre.png
-    pts1: "0"
+    pts1: "zero"
     pts2: "0"
     time: "02:30"
     stadium: Estadio das Dunas
@@ -256,7 +256,7 @@
     team2: کاستاريکا
     flag1: assets/img/flags/ita.png
     flag2: assets/img/flags/crc.png
-    pts1: "0"
+    pts1: "zero"
     pts2: "0"
     time: "20:30"
     stadium: Arena Pernambuco
@@ -266,7 +266,7 @@
     team2: فرانسه
     flag1: assets/img/flags/sui.png
     flag2: assets/img/flags/fra.png
-    pts1: "0"
+    pts1: "zero"
     pts2: "0"
     time: "23:30"
     stadium: Arena Fonte Nova
@@ -279,7 +279,7 @@
     team2: اكوادور
     flag1: assets/img/flags/hon.png
     flag2: assets/img/flags/ecu.png
-    pts1: "0"
+    pts1: "zero"
     pts2: "0"
     time: "02:30"
     stadium: Arena da Baixada
@@ -289,7 +289,7 @@
     team2: ايران
     flag1: assets/img/flags/arg.png
     flag2: assets/img/flags/irn.png
-    pts1: "0"
+    pts1: "zero"
     pts2: "0"
     time: "20:30"
     stadium: Estadio Mineirao
@@ -299,7 +299,7 @@
     team2: غنا
     flag1: assets/img/flags/ger.png
     flag2: assets/img/flags/gha.png
-    pts1: "0"
+    pts1: "zero"
     pts2: "0"
     time: "23:30"
     stadium: Estadio Castelao
@@ -312,7 +312,7 @@
     team2: بوسني هرزگوين
     flag1: assets/img/flags/nga.png
     flag2: assets/img/flags/bih.png
-    pts1: "0"
+    pts1: "zero"
     pts2: "0"
     time: "02:30"
     stadium: Arena Pantanal
@@ -322,7 +322,7 @@
     team2: روسيه
     flag1: assets/img/flags/bel.png
     flag2: assets/img/flags/rus.png
-    pts1: "0"
+    pts1: "zero"
     pts2: "0"
     time: "20:30"
     stadium: Maracanã - Estádio Jornalista Mário Filho
@@ -332,7 +332,7 @@
     team2: الجزاير
     flag1: assets/img/flags/kor.png
     flag2: assets/img/flags/alg.png
-    pts1: "0"
+    pts1: "zero"
     pts2: "0"
     time: "23:30"
     stadium: Estadio Beira-Rio
@@ -345,7 +345,7 @@
     team2: پرتغال
     flag1: assets/img/flags/usa.png
     flag2: assets/img/flags/por.png
-    pts1: "0"
+    pts1: "zero"
     pts2: "0"
     time: "02:30"
     stadium: Arena Amazonia
@@ -355,7 +355,7 @@
     team2: شيلي
     flag1: assets/img/flags/ned.png
     flag2: assets/img/flags/chi.png
-    pts1: "0"
+    pts1: "zero"
     pts2: "0"
     time: "20:30"
     stadium: Arena de Sao Paulo
@@ -365,7 +365,7 @@
     team2: اسپانيا
     flag1: assets/img/flags/aus.png
     flag2: assets/img/flags/esp.png
-    pts1: "0"
+    pts1: "zero"
     pts2: "0"
     time: "20:30"
     stadium: Arena da Baixada
@@ -378,7 +378,7 @@
     team2: برزيل
     flag1: assets/img/flags/cmr.png
     flag2: assets/img/flags/bra.png
-    pts1: "0"
+    pts1: "zero"
     pts2: "0"
     time: "00:30"
     stadium: Estadio Nacional
@@ -388,7 +388,7 @@
     team2: مکزيک
     flag1: assets/img/flags/cro.png
     flag2: assets/img/flags/mex.png
-    pts1: "0"
+    pts1: "zero"
     pts2: "0"
     time: "00:30"
     stadium: Arena Pernambuco
@@ -398,7 +398,7 @@
     team2: اروگوئه
     flag1: assets/img/flags/ita.png
     flag2: assets/img/flags/uru.png
-    pts1: "0"
+    pts1: "zero"
     pts2: "0"
     time: "20:30"
     stadium: Estadio das Dunas
@@ -408,7 +408,7 @@
     team2: انگليس
     flag1: assets/img/flags/crc.png
     flag2: assets/img/flags/eng.png
-    pts1: "0"
+    pts1: "zero"
     pts2: "0"
     time: "20:30"
     stadium: Estadio Mineirao
@@ -421,7 +421,7 @@
     team2: كلمبيا
     flag1: assets/img/flags/jpn.png
     flag2: assets/img/flags/col.png
-    pts1: "0"
+    pts1: "zero"
     pts2: "0"
     time: "00:30"
     stadium: Arena Pantanal
@@ -431,7 +431,7 @@
     team2: ساحل عاج
     flag1: assets/img/flags/gre.png
     flag2: assets/img/flags/civ.png
-    pts1: "0"
+    pts1: "zero"
     pts2: "0"
     time: "00:30"
     stadium: Estadio Castelao
@@ -441,7 +441,7 @@
     team2: آرژانتين
     flag1: assets/img/flags/nga.png
     flag2: assets/img/flags/arg.png
-    pts1: "0"
+    pts1: "zero"
     pts2: "0"
     time: "20:30"
     stadium: Estadio Beira-Rio
@@ -451,7 +451,7 @@
     team2: ايران
     flag1: assets/img/flags/bih.png
     flag2: assets/img/flags/irn.png
-    pts1: "0"
+    pts1: "zero"
     pts2: "0"
     time: "20:30"
     stadium: Arena Fonte Nova
@@ -464,7 +464,7 @@
     team2: سوئيس
     flag1: assets/img/flags/hon.png
     flag2: assets/img/flags/sui.png
-    pts1: "0"
+    pts1: "zero"
     pts2: "0"
     time: "00:30"
     stadium: Arena Amazonia
@@ -474,7 +474,7 @@
     team2: فرانسه
     flag1: assets/img/flags/ecu.png
     flag2: assets/img/flags/fra.png
-    pts1: "0"
+    pts1: "zero"
     pts2: "0"
     time: "00:30"
     stadium: Maracanã - Estádio Jornalista Mário Filho
@@ -484,7 +484,7 @@
     team2: غنا
     flag1: assets/img/flags/por.png
     flag2: assets/img/flags/gha.png
-    pts1: "0"
+    pts1: "zero"
     pts2: "0"
     time: "20:30"
     stadium: Estadio Nacional
@@ -494,7 +494,7 @@
     team2: آلمان
     flag1: assets/img/flags/usa.png
     flag2: assets/img/flags/ger.png
-    pts1: "0"
+    pts1: "zero"
     pts2: "0"
     time: "20:30"
     stadium: Arena Pernambuco
@@ -507,7 +507,7 @@
     team2: بلژیک
     flag1: assets/img/flags/kor.png
     flag2: assets/img/flags/bel.png
-    pts1: "0"
+    pts1: "zero"
     pts2: "0"
     time: "00:30"
     stadium: Arena de Sao Paulo
@@ -517,7 +517,7 @@
     team2: روسيه
     flag1: assets/img/flags/alg.png
     flag2: assets/img/flags/rus.png
-    pts1: "0"
+    pts1: "zero"
     pts2: "0"
     time: "00:30"
     stadium: Arena da Baixada
@@ -530,7 +530,7 @@
     team2: "[2B]"
     flag1: assets/img/flags/blank.png
     flag2: assets/img/flags/blank.png
-    pts1: "0"
+    pts1: "zero"
     pts2: "0"
     time: "20:30"
     stadium: Estadio Mineirao
@@ -543,7 +543,7 @@
     team2: "[2D]"
     flag1: assets/img/flags/blank.png
     flag2: assets/img/flags/blank.png
-    pts1: "0"
+    pts1: "zero"
     pts2: "0"
     time: "00:30"
     stadium: Maracanã - Estádio Jornalista Mário Filho
@@ -553,7 +553,7 @@
     team2: "[2A]"
     flag1: assets/img/flags/blank.png
     flag2: assets/img/flags/blank.png
-    pts1: "0"
+    pts1: "zero"
     pts2: "0"
     time: "20:30"
     stadium: Estadio Castelao
@@ -566,7 +566,7 @@
     team2: "[2C]"
     flag1: assets/img/flags/blank.png
     flag2: assets/img/flags/blank.png
-    pts1: "0"
+    pts1: "zero"
     pts2: "0"
     time: "00:30"
     stadium: Arena Pernambuco
@@ -576,7 +576,7 @@
     team2: "[2F]"
     flag1: assets/img/flags/blank.png
     flag2: assets/img/flags/blank.png
-    pts1: "0"
+    pts1: "zero"
     pts2: "0"
     time: "20:30"
     stadium: Estadio Nacional
@@ -589,7 +589,7 @@
     team2: "[2H]"
     flag1: assets/img/flags/blank.png
     flag2: assets/img/flags/blank.png
-    pts1: "0"
+    pts1: "zero"
     pts2: "0"
     time: "00:30"
     stadium: Estadio Beira-Rio
@@ -599,7 +599,7 @@
     team2: "[2E]"
     flag1: assets/img/flags/blank.png
     flag2: assets/img/flags/blank.png
-    pts1: "0"
+    pts1: "zero"
     pts2: "0"
     time: "20:30"
     stadium: Arena de Sao Paulo
@@ -612,7 +612,7 @@
     team2: "[2G]"
     flag1: assets/img/flags/blank.png
     flag2: assets/img/flags/blank.png
-    pts1: "0"
+    pts1: "zero"
     pts2: "0"
     time: "00:30"
     stadium: Arena Fonte Nova
@@ -625,7 +625,7 @@
     team2: "[W54]"
     flag1: assets/img/flags/blank.png
     flag2: assets/img/flags/blank.png
-    pts1: "0"
+    pts1: "zero"
     pts2: "0"
     time: "20:30"
     stadium: Maracanã - Estádio Jornalista Mário Filho
@@ -638,7 +638,7 @@
     team2: "[W50]"
     flag1: assets/img/flags/blank.png
     flag2: assets/img/flags/blank.png
-    pts1: "0"
+    pts1: "zero"
     pts2: "0"
     time: "00:30"
     stadium: Estadio Castelao
@@ -648,7 +648,7 @@
     team2: "[W56]"
     flag1: assets/img/flags/blank.png
     flag2: assets/img/flags/blank.png
-    pts1: "0"
+    pts1: "zero"
     pts2: "0"
     time: "20:30"
     stadium: Estadio Nacional
@@ -661,7 +661,7 @@
     team2: "[W52]"
     flag1: assets/img/flags/blank.png
     flag2: assets/img/flags/blank.png
-    pts1: "0"
+    pts1: "zero"
     pts2: "0"
     time: "00:30"
     stadium: Arena Fonte Nova
@@ -674,7 +674,7 @@
     team2: "[W58]"
     flag1: assets/img/flags/blank.png
     flag2: assets/img/flags/blank.png
-    pts1: "0"
+    pts1: "zero"
     pts2: "0"
     time: "00:30"
     stadium: Estadio Mineirao
@@ -687,7 +687,7 @@
     team2: "[W60]"
     flag1: assets/img/flags/blank.png
     flag2: assets/img/flags/blank.png
-    pts1: "0"
+    pts1: "zero"
     pts2: "0"
     time: "00:30"
     stadium: Arena de Sao Paulo
@@ -700,7 +700,7 @@
     team2: "[L62]"
     flag1: assets/img/flags/blank.png
     flag2: assets/img/flags/blank.png
-    pts1: "0"
+    pts1: "zero"
     pts2: "0"
     time: "00:30"
     stadium: Estadio Nacional
@@ -713,7 +713,7 @@
     team2: "[W62]"
     flag1: assets/img/flags/blank.png
     flag2: assets/img/flags/blank.png
-    pts1: "0"
+    pts1: "zero"
     pts2: "0"
     time: "23:30"
     stadium: Maracanã - Estádio Jornalista Mário Filho
