@@ -74,6 +74,7 @@
             top: 3px;
             margin-left: 1.5rem;
             width: 32px;
+            border: 1px solid #F5F5F5;
             @include phone{
               margin-left: 1.5rem;
               width: 32px;
@@ -316,6 +317,7 @@
             right: 0;
             top: 0;
             margin: 7px 10px;
+            border: 1px solid #F5F5F5;
           }
           span{
             font-size: 1.5rem;
