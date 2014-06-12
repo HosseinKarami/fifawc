@@ -60,6 +60,93 @@
           font-weight: bold;
         }
       }
+      &.contents{
+        margin-right: 0;
+        position: relative;
+        height: auto;
+        @include phone{
+          margin-right: 0;
+        }
+        @include tablet{
+          margin-right: 0;
+        }
+        @include desktop{
+          margin-right: 0;
+        }
+        @include largedesktop{
+          margin-right: 370px;
+        }
+        @include biglargedesktop{
+          margin-right: 370px;
+        }
+        .team-a{
+          width: 50%;
+          display: table-cell;
+          ul{
+            list-style: none;
+            margin-right: -39px;
+            li{
+              img{
+                width: 16px;
+              }
+              span{
+                font-family: Mitra;
+                font-size: .9rem;
+                vertical-align: middle;
+                @include phone{
+                  font-size: .9rem;
+                }
+                @include tablet{
+                  font-size: 1rem;
+                }
+                @include desktop{
+                  font-size: 1.2rem;
+                }
+                @include largedesktop{
+                  font-size: 1.2rem;
+                }
+                @include biglargedesktop{
+                  font-size: 1.2rem;
+                }
+              }
+            }
+          }
+        }
+        .team-b{
+          @include position(absolute, 0px 0 0 0px);
+          width: 50%;
+          display: table-cell;
+          ul{
+            list-style: none;
+            margin-right: -39px;
+            li{
+              img{
+                width: 16px;
+              }
+              span{
+                font-family: Mitra;
+                font-size: .9rem;
+                vertical-align: middle;
+                @include phone{
+                  font-size: .9rem;
+                }
+                @include tablet{
+                  font-size: 1rem;
+                }
+                @include desktop{
+                  font-size: 1.2rem;
+                }
+                @include largedesktop{
+                  font-size: 1.2rem;
+                }
+                @include biglargedesktop{
+                  font-size: 1.2rem;
+                }
+              }
+            }
+          }
+        }
+      }
       &.content{
         margin-right: 0;
         position: relative;

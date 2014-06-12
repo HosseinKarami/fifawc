@@ -40,7 +40,8 @@ layout: default
     {% for itm in item.groups %}
     {% if  itm.group == 'گروه H' %}
     <h4>{{ item.date }}</h4>
-    <div class="row">
+    <details>
+    <summary class="row">
       <article class="info">
         <h5>{{ itm.group }}</h5>
         <h5>ورزشگاه {{ itm.stadium }}</h5>
@@ -51,13 +52,50 @@ layout: default
           <img src="{{ site.url }}/{{ itm.flag1}}" alt="{{ itm.team1 }}">
           <span>{{ itm.team1 }}</span>
         </div>
-        <div class="time"><span>{{ itm.time }}</span></div>
+        <div class="time"><span>{% if  itm.pts1 == 'zero' %}{{ itm.time }} {% else %} {{ itm.pts1 }} - {{ itm.pts2 }} {% endif %}</span></div>
         <div class="team-b">
           <span>{{ itm.team2 }}</span>
           <img src="{{ site.url }}/{{ itm.flag2}}" alt="{{ itm.team2 }}">
         </div>
       </article>
-    </div>
+    </summary>
+    {% if  itm.pts1 == 'zero' %} {% else %}
+      <article class="contents">
+        <div class="team-a">
+          <ul>
+            <li>
+              <img src="{{ site.url }}/assets/img/goal.png" alt="">
+              <span>{{ itm.goal1 }}</span>
+            </li>
+            <li>
+              <img src="{{ site.url }}/assets/img/YellowCard.png" alt="">
+              <span>{{ itm.yellow1 }}</span>
+            </li>
+            <li>
+              <img src="{{ site.url }}/assets/img/RedCard.png" alt="">
+              <span>{{ itm.red1 }}</span>
+            </li>
+          </ul>
+        </div>
+        <div class="team-b">
+          <ul>
+            <li>
+              <img src="{{ site.url }}/assets/img/goal.png" alt="">
+              <span>{{ itm.goal2 }}</span>
+            </li>
+            <li>
+              <img src="{{ site.url }}/assets/img/YellowCard.png" alt="">
+              <span>{{ itm.yellow2 }}</span>
+            </li>
+            <li>
+              <img src="{{ site.url }}/assets/img/RedCard.png" alt="">
+              <span>{{ itm.red2 }}</span>
+            </li>
+          </ul>
+        </div>
+      </article>
+      {% endif %}
+    </details>
     {% endif %}
       {% endfor %}
     {% endfor %}

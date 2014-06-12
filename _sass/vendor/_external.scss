@@ -1,0 +1,6 @@
+summary { cursor: pointer; outline: none;}
+.no-details details > * { display: none; }
+.no-details details summary { display: block; }
+summary::-webkit-details-marker {
+  display: none
+}

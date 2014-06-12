@@ -7,6 +7,12 @@
     flag2: assets/img/flags/cro.png
     pts1: "zero"
     pts2: "0"
+    goal1: ""
+    goal2: ""
+    yellow1: ""
+    yellow2: ""
+    red1: ""
+    red2: ""
     time: "00:30"
     stadium: Arena de Sao Paulo
     city: Sao Paulo
@@ -17,6 +23,12 @@
     flag2: assets/img/flags/cmr.png
     pts1: "zero"
     pts2: "0"
+    goal1: ""
+    goal2: ""
+    yellow1: ""
+    yellow2: ""
+    red1: ""
+    red2: ""
     time: "20:30"
     stadium: Estadio das Dunas
     city: Natal
@@ -27,6 +39,12 @@
     flag2: assets/img/flags/ned.png
     pts1: "zero"
     pts2: "0"
+    goal1: ""
+    goal2: ""
+    yellow1: ""
+    yellow2: ""
+    red1: ""
+    red2: ""
     time: "23:30"
     stadium: Arena Fonte Nova
     city: Salvador
@@ -40,6 +58,12 @@
     flag2: assets/img/flags/aus.png
     pts1: "zero"
     pts2: "0"
+    goal1: ""
+    goal2: ""
+    yellow1: ""
+    yellow2: ""
+    red1: ""
+    red2: ""
     time: "02:30"
     stadium: Arena Pantanal
     city: Cuiaba
@@ -50,6 +74,12 @@
     flag2: assets/img/flags/gre.png
     pts1: "zero"
     pts2: "0"
+    goal1: ""
+    goal2: ""
+    yellow1: ""
+    yellow2: ""
+    red1: ""
+    red2: ""
     time: "20:30"
     stadium: Estadio Mineirao
     city: Belo Horizonte
@@ -60,6 +90,12 @@
     flag2: assets/img/flags/crc.png
     pts1: "zero"
     pts2: "0"
+    goal1: ""
+    goal2: ""
+    yellow1: ""
+    yellow2: ""
+    red1: ""
+    red2: ""
     time: "23:30"
     stadium: Estadio Castelao
     city: Fortaleza
@@ -73,6 +109,12 @@
     flag2: assets/img/flags/ita.png
     pts1: "zero"
     pts2: "0"
+    goal1: ""
+    goal2: ""
+    yellow1: ""
+    yellow2: ""
+    red1: ""
+    red2: ""
     time: "02:30"
     stadium: Arena Amazonia
     city: Manaus
@@ -83,6 +125,12 @@
     flag2: assets/img/flags/jpn.png
     pts1: "zero"
     pts2: "0"
+    goal1: ""
+    goal2: ""
+    yellow1: ""
+    yellow2: ""
+    red1: ""
+    red2: ""
     time: "05:30"
     stadium: Arena Pernambuco
     city: Recife
@@ -93,6 +141,12 @@
     flag2: assets/img/flags/ecu.png
     pts1: "zero"
     pts2: "0"
+    goal1: ""
+    goal2: ""
+    yellow1: ""
+    yellow2: ""
+    red1: ""
+    red2: ""
     time: "20:30"
     stadium: Estadio Nacional
     city: Brasilia
@@ -103,6 +157,12 @@
     flag2: assets/img/flags/hon.png
     pts1: "zero"
     pts2: "0"
+    goal1: ""
+    goal2: ""
+    yellow1: ""
+    yellow2: ""
+    red1: ""
+    red2: ""
     time: "23:30"
     stadium: Estadio Beira-Rio
     city: Porto Alegre
@@ -116,6 +176,12 @@
     flag2: assets/img/flags/bih.png
     pts1: "zero"
     pts2: "0"
+    goal1: ""
+    goal2: ""
+    yellow1: ""
+    yellow2: ""
+    red1: ""
+    red2: ""
     time: "02:30"
     stadium: Maracanã - Estádio Jornalista Mário Filho
     city: Rio De Janeiro
@@ -126,6 +192,12 @@
     flag2: assets/img/flags/por.png
     pts1: "zero"
     pts2: "0"
+    goal1: ""
+    goal2: ""
+    yellow1: ""
+    yellow2: ""
+    red1: ""
+    red2: ""
     time: "20:30"
     stadium: Arena Fonte Nova
     city: Salvador
@@ -136,6 +208,12 @@
     flag2: assets/img/flags/nga.png
     pts1: "zero"
     pts2: "0"
+    goal1: ""
+    goal2: ""
+    yellow1: ""
+    yellow2: ""
+    red1: ""
+    red2: ""
     time: "23:30"
     stadium: Arena da Baixada
     city: Curitiba
@@ -149,6 +227,12 @@
     flag2: assets/img/flags/usa.png
     pts1: "zero"
     pts2: "0"
+    goal1: ""
+    goal2: ""
+    yellow1: ""
+    yellow2: ""
+    red1: ""
+    red2: ""
     time: "02:30"
     stadium: Estadio das Dunas
     city: Natal
@@ -159,6 +243,12 @@
     flag2: assets/img/flags/alg.png
     pts1: "zero"
     pts2: "0"
+    goal1: ""
+    goal2: ""
+    yellow1: ""
+    yellow2: ""
+    red1: ""
+    red2: ""
     time: "20:30"
     stadium: Estadio Mineirao
     city: Belo Horizonte
@@ -169,6 +259,12 @@
     flag2: assets/img/flags/mex.png
     pts1: "zero"
     pts2: "0"
+    goal1: ""
+    goal2: ""
+    yellow1: ""
+    yellow2: ""
+    red1: ""
+    red2: ""
     time: "23:30"
     stadium: Estadio Castelao
     city: Fortaleza
@@ -182,6 +278,12 @@
     flag2: assets/img/flags/kor.png
     pts1: "zero"
     pts2: "0"
+    goal1: ""
+    goal2: ""
+    yellow1: ""
+    yellow2: ""
+    red1: ""
+    red2: ""
     time: "02:30"
     stadium: Arena Pantanal
     city: Cuiaba
@@ -192,6 +294,12 @@
     flag2: assets/img/flags/ned.png
     pts1: "zero"
     pts2: "0"
+    goal1: ""
+    goal2: ""
+    yellow1: ""
+    yellow2: ""
+    red1: ""
+    red2: ""
     time: "20:30"
     stadium: Estadio Beira-Rio
     city: Porto Alegre
@@ -202,6 +310,12 @@
     flag2: assets/img/flags/chi.png
     pts1: "zero"
     pts2: "0"
+    goal1: ""
+    goal2: ""
+    yellow1: ""
+    yellow2: ""
+    red1: ""
+    red2: ""
     time: "23:30"
     stadium: Maracanã - Estádio Jornalista Mário Filho
     city: Rio De Janeiro
@@ -215,6 +329,12 @@
     flag2: assets/img/flags/cro.png
     pts1: "zero"
     pts2: "0"
+    goal1: ""
+    goal2: ""
+    yellow1: ""
+    yellow2: ""
+    red1: ""
+    red2: ""
     time: "02:30"
     stadium: Arena Amazonia
     city: Manaus
@@ -225,6 +345,12 @@
     flag2: assets/img/flags/civ.png
     pts1: "zero"
     pts2: "0"
+    goal1: ""
+    goal2: ""
+    yellow1: ""
+    yellow2: ""
+    red1: ""
+    red2: ""
     time: "20:30"
     stadium: Estadio Nacional
     city: Brasilia
@@ -235,6 +361,12 @@
     flag2: assets/img/flags/eng.png
     pts1: "zero"
     pts2: "0"
+    goal1: ""
+    goal2: ""
+    yellow1: ""
+    yellow2: ""
+    red1: ""
+    red2: ""
     time: "23:30"
     stadium: Arena de Sao Paulo
     city: Sao Paulo
@@ -248,6 +380,12 @@
     flag2: assets/img/flags/gre.png
     pts1: "zero"
     pts2: "0"
+    goal1: ""
+    goal2: ""
+    yellow1: ""
+    yellow2: ""
+    red1: ""
+    red2: ""
     time: "02:30"
     stadium: Estadio das Dunas
     city: Natal
@@ -258,6 +396,12 @@
     flag2: assets/img/flags/crc.png
     pts1: "zero"
     pts2: "0"
+    goal1: ""
+    goal2: ""
+    yellow1: ""
+    yellow2: ""
+    red1: ""
+    red2: ""
     time: "20:30"
     stadium: Arena Pernambuco
     city: Recife
@@ -268,6 +412,12 @@
     flag2: assets/img/flags/fra.png
     pts1: "zero"
     pts2: "0"
+    goal1: ""
+    goal2: ""
+    yellow1: ""
+    yellow2: ""
+    red1: ""
+    red2: ""
     time: "23:30"
     stadium: Arena Fonte Nova
     city: Salvador
@@ -281,6 +431,12 @@
     flag2: assets/img/flags/ecu.png
     pts1: "zero"
     pts2: "0"
+    goal1: ""
+    goal2: ""
+    yellow1: ""
+    yellow2: ""
+    red1: ""
+    red2: ""
     time: "02:30"
     stadium: Arena da Baixada
     city: Curitiba
@@ -291,6 +447,12 @@
     flag2: assets/img/flags/irn.png
     pts1: "zero"
     pts2: "0"
+    goal1: ""
+    goal2: ""
+    yellow1: ""
+    yellow2: ""
+    red1: ""
+    red2: ""
     time: "20:30"
     stadium: Estadio Mineirao
     city: Belo Horizonte
@@ -301,6 +463,12 @@
     flag2: assets/img/flags/gha.png
     pts1: "zero"
     pts2: "0"
+    goal1: ""
+    goal2: ""
+    yellow1: ""
+    yellow2: ""
+    red1: ""
+    red2: ""
     time: "23:30"
     stadium: Estadio Castelao
     city: Fortaleza
@@ -314,6 +482,12 @@
     flag2: assets/img/flags/bih.png
     pts1: "zero"
     pts2: "0"
+    goal1: ""
+    goal2: ""
+    yellow1: ""
+    yellow2: ""
+    red1: ""
+    red2: ""
     time: "02:30"
     stadium: Arena Pantanal
     city: Cuiaba
@@ -324,6 +498,12 @@
     flag2: assets/img/flags/rus.png
     pts1: "zero"
     pts2: "0"
+    goal1: ""
+    goal2: ""
+    yellow1: ""
+    yellow2: ""
+    red1: ""
+    red2: ""
     time: "20:30"
     stadium: Maracanã - Estádio Jornalista Mário Filho
     city: Rio De Janeiro
@@ -334,6 +514,12 @@
     flag2: assets/img/flags/alg.png
     pts1: "zero"
     pts2: "0"
+    goal1: ""
+    goal2: ""
+    yellow1: ""
+    yellow2: ""
+    red1: ""
+    red2: ""
     time: "23:30"
     stadium: Estadio Beira-Rio
     city: Porto Alegre
@@ -347,6 +533,12 @@
     flag2: assets/img/flags/por.png
     pts1: "zero"
     pts2: "0"
+    goal1: ""
+    goal2: ""
+    yellow1: ""
+    yellow2: ""
+    red1: ""
+    red2: ""
     time: "02:30"
     stadium: Arena Amazonia
     city: Manaus
@@ -357,6 +549,12 @@
     flag2: assets/img/flags/chi.png
     pts1: "zero"
     pts2: "0"
+    goal1: ""
+    goal2: ""
+    yellow1: ""
+    yellow2: ""
+    red1: ""
+    red2: ""
     time: "20:30"
     stadium: Arena de Sao Paulo
     city: Sao Paulo
@@ -367,6 +565,12 @@
     flag2: assets/img/flags/esp.png
     pts1: "zero"
     pts2: "0"
+    goal1: ""
+    goal2: ""
+    yellow1: ""
+    yellow2: ""
+    red1: ""
+    red2: ""
     time: "20:30"
     stadium: Arena da Baixada
     city: Curitiba
@@ -380,6 +584,12 @@
     flag2: assets/img/flags/bra.png
     pts1: "zero"
     pts2: "0"
+    goal1: ""
+    goal2: ""
+    yellow1: ""
+    yellow2: ""
+    red1: ""
+    red2: ""
     time: "00:30"
     stadium: Estadio Nacional
     city: Brasilia
@@ -390,6 +600,12 @@
     flag2: assets/img/flags/mex.png
     pts1: "zero"
     pts2: "0"
+    goal1: ""
+    goal2: ""
+    yellow1: ""
+    yellow2: ""
+    red1: ""
+    red2: ""
     time: "00:30"
     stadium: Arena Pernambuco
     city: Recife
@@ -400,6 +616,12 @@
     flag2: assets/img/flags/uru.png
     pts1: "zero"
     pts2: "0"
+    goal1: ""
+    goal2: ""
+    yellow1: ""
+    yellow2: ""
+    red1: ""
+    red2: ""
     time: "20:30"
     stadium: Estadio das Dunas
     city: Natal
@@ -410,6 +632,12 @@
     flag2: assets/img/flags/eng.png
     pts1: "zero"
     pts2: "0"
+    goal1: ""
+    goal2: ""
+    yellow1: ""
+    yellow2: ""
+    red1: ""
+    red2: ""
     time: "20:30"
     stadium: Estadio Mineirao
     city: Belo Horizonte
@@ -423,6 +651,12 @@
     flag2: assets/img/flags/col.png
     pts1: "zero"
     pts2: "0"
+    goal1: ""
+    goal2: ""
+    yellow1: ""
+    yellow2: ""
+    red1: ""
+    red2: ""
     time: "00:30"
     stadium: Arena Pantanal
     city: Cuiaba
@@ -433,6 +667,12 @@
     flag2: assets/img/flags/civ.png
     pts1: "zero"
     pts2: "0"
+    goal1: ""
+    goal2: ""
+    yellow1: ""
+    yellow2: ""
+    red1: ""
+    red2: ""
     time: "00:30"
     stadium: Estadio Castelao
     city: Fortaleza
@@ -443,6 +683,12 @@
     flag2: assets/img/flags/arg.png
     pts1: "zero"
     pts2: "0"
+    goal1: ""
+    goal2: ""
+    yellow1: ""
+    yellow2: ""
+    red1: ""
+    red2: ""
     time: "20:30"
     stadium: Estadio Beira-Rio
     city: Porto Alegre
@@ -453,6 +699,12 @@
     flag2: assets/img/flags/irn.png
     pts1: "zero"
     pts2: "0"
+    goal1: ""
+    goal2: ""
+    yellow1: ""
+    yellow2: ""
+    red1: ""
+    red2: ""
     time: "20:30"
     stadium: Arena Fonte Nova
     city: Salvador
@@ -466,6 +718,12 @@
     flag2: assets/img/flags/sui.png
     pts1: "zero"
     pts2: "0"
+    goal1: ""
+    goal2: ""
+    yellow1: ""
+    yellow2: ""
+    red1: ""
+    red2: ""
     time: "00:30"
     stadium: Arena Amazonia
     city: Manaus
@@ -476,6 +734,12 @@
     flag2: assets/img/flags/fra.png
     pts1: "zero"
     pts2: "0"
+    goal1: ""
+    goal2: ""
+    yellow1: ""
+    yellow2: ""
+    red1: ""
+    red2: ""
     time: "00:30"
     stadium: Maracanã - Estádio Jornalista Mário Filho
     city: Rio De Janeiro
@@ -486,6 +750,12 @@
     flag2: assets/img/flags/gha.png
     pts1: "zero"
     pts2: "0"
+    goal1: ""
+    goal2: ""
+    yellow1: ""
+    yellow2: ""
+    red1: ""
+    red2: ""
     time: "20:30"
     stadium: Estadio Nacional
     city: Brasilia
@@ -496,6 +766,12 @@
     flag2: assets/img/flags/ger.png
     pts1: "zero"
     pts2: "0"
+    goal1: ""
+    goal2: ""
+    yellow1: ""
+    yellow2: ""
+    red1: ""
+    red2: ""
     time: "20:30"
     stadium: Arena Pernambuco
     city: Recife
@@ -509,6 +785,12 @@
     flag2: assets/img/flags/bel.png
     pts1: "zero"
     pts2: "0"
+    goal1: ""
+    goal2: ""
+    yellow1: ""
+    yellow2: ""
+    red1: ""
+    red2: ""
     time: "00:30"
     stadium: Arena de Sao Paulo
     city: Sao Paulo
@@ -519,6 +801,12 @@
     flag2: assets/img/flags/rus.png
     pts1: "zero"
     pts2: "0"
+    goal1: ""
+    goal2: ""
+    yellow1: ""
+    yellow2: ""
+    red1: ""
+    red2: ""
     time: "00:30"
     stadium: Arena da Baixada
     city: Curitiba
@@ -532,6 +820,12 @@
     flag2: assets/img/flags/blank.png
     pts1: "zero"
     pts2: "0"
+    goal1: ""
+    goal2: ""
+    yellow1: ""
+    yellow2: ""
+    red1: ""
+    red2: ""
     time: "20:30"
     stadium: Estadio Mineirao
     city: Belo Horizonte
@@ -545,6 +839,12 @@
     flag2: assets/img/flags/blank.png
     pts1: "zero"
     pts2: "0"
+    goal1: ""
+    goal2: ""
+    yellow1: ""
+    yellow2: ""
+    red1: ""
+    red2: ""
     time: "00:30"
     stadium: Maracanã - Estádio Jornalista Mário Filho
     city: Rio De Janeiro
@@ -555,6 +855,12 @@
     flag2: assets/img/flags/blank.png
     pts1: "zero"
     pts2: "0"
+    goal1: ""
+    goal2: ""
+    yellow1: ""
+    yellow2: ""
+    red1: ""
+    red2: ""
     time: "20:30"
     stadium: Estadio Castelao
     city: Fortaleza
@@ -568,6 +874,12 @@
     flag2: assets/img/flags/blank.png
     pts1: "zero"
     pts2: "0"
+    goal1: ""
+    goal2: ""
+    yellow1: ""
+    yellow2: ""
+    red1: ""
+    red2: ""
     time: "00:30"
     stadium: Arena Pernambuco
     city: Recife
@@ -578,6 +890,12 @@
     flag2: assets/img/flags/blank.png
     pts1: "zero"
     pts2: "0"
+    goal1: ""
+    goal2: ""
+    yellow1: ""
+    yellow2: ""
+    red1: ""
+    red2: ""
     time: "20:30"
     stadium: Estadio Nacional
     city: Brasilia
@@ -591,6 +909,12 @@
     flag2: assets/img/flags/blank.png
     pts1: "zero"
     pts2: "0"
+    goal1: ""
+    goal2: ""
+    yellow1: ""
+    yellow2: ""
+    red1: ""
+    red2: ""
     time: "00:30"
     stadium: Estadio Beira-Rio
     city: Porto Alegre
@@ -601,6 +925,12 @@
     flag2: assets/img/flags/blank.png
     pts1: "zero"
     pts2: "0"
+    goal1: ""
+    goal2: ""
+    yellow1: ""
+    yellow2: ""
+    red1: ""
+    red2: ""
     time: "20:30"
     stadium: Arena de Sao Paulo
     city: Sao Paulo
@@ -614,6 +944,12 @@
     flag2: assets/img/flags/blank.png
     pts1: "zero"
     pts2: "0"
+    goal1: ""
+    goal2: ""
+    yellow1: ""
+    yellow2: ""
+    red1: ""
+    red2: ""
     time: "00:30"
     stadium: Arena Fonte Nova
     city: Salvador
@@ -627,6 +963,12 @@
     flag2: assets/img/flags/blank.png
     pts1: "zero"
     pts2: "0"
+    goal1: ""
+    goal2: ""
+    yellow1: ""
+    yellow2: ""
+    red1: ""
+    red2: ""
     time: "20:30"
     stadium: Maracanã - Estádio Jornalista Mário Filho
     city: Rio De Janeiro
@@ -640,6 +982,12 @@
     flag2: assets/img/flags/blank.png
     pts1: "zero"
     pts2: "0"
+    goal1: ""
+    goal2: ""
+    yellow1: ""
+    yellow2: ""
+    red1: ""
+    red2: ""
     time: "00:30"
     stadium: Estadio Castelao
     city: Fortaleza
@@ -650,6 +998,12 @@
     flag2: assets/img/flags/blank.png
     pts1: "zero"
     pts2: "0"
+    goal1: ""
+    goal2: ""
+    yellow1: ""
+    yellow2: ""
+    red1: ""
+    red2: ""
     time: "20:30"
     stadium: Estadio Nacional
     city: Brasilia
@@ -663,6 +1017,12 @@
     flag2: assets/img/flags/blank.png
     pts1: "zero"
     pts2: "0"
+    goal1: ""
+    goal2: ""
+    yellow1: ""
+    yellow2: ""
+    red1: ""
+    red2: ""
     time: "00:30"
     stadium: Arena Fonte Nova
     city: Salvador
@@ -676,6 +1036,12 @@
     flag2: assets/img/flags/blank.png
     pts1: "zero"
     pts2: "0"
+    goal1: ""
+    goal2: ""
+    yellow1: ""
+    yellow2: ""
+    red1: ""
+    red2: ""
     time: "00:30"
     stadium: Estadio Mineirao
     city: Belo Horizonte
@@ -689,6 +1055,12 @@
     flag2: assets/img/flags/blank.png
     pts1: "zero"
     pts2: "0"
+    goal1: ""
+    goal2: ""
+    yellow1: ""
+    yellow2: ""
+    red1: ""
+    red2: ""
     time: "00:30"
     stadium: Arena de Sao Paulo
     city: Sao Paulo
@@ -702,6 +1074,12 @@
     flag2: assets/img/flags/blank.png
     pts1: "zero"
     pts2: "0"
+    goal1: ""
+    goal2: ""
+    yellow1: ""
+    yellow2: ""
+    red1: ""
+    red2: ""
     time: "00:30"
     stadium: Estadio Nacional
     city: Brasilia
@@ -715,6 +1093,12 @@
     flag2: assets/img/flags/blank.png
     pts1: "zero"
     pts2: "0"
+    goal1: ""
+    goal2: ""
+    yellow1: ""
+    yellow2: ""
+    red1: ""
+    red2: ""
     time: "23:30"
     stadium: Maracanã - Estádio Jornalista Mário Filho
     city: Rio De Janeiro
