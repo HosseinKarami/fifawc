@@ -9,15 +9,6 @@
     GF: "3"
     GA: "1"
     points: "3"
-  - team: کرواسی
-    flag: assets/img/flags/cro.png
-    played: "1"
-    won: "0"
-    draw: "0"
-    lost: "1"
-    GF: "1"
-    GA: "3"
-    points: "0"
   - team: مکزیک
     flag: assets/img/flags/mex.png
     played: "0"
@@ -35,6 +26,15 @@
     lost: "0"
     GF: "0"
     GA: "0"
+    points: "0"
+  - team: کرواسی
+    flag: assets/img/flags/cro.png
+    played: "1"
+    won: "0"
+    draw: "0"
+    lost: "1"
+    GF: "1"
+    GA: "3"
     points: "0"
 
 - group: B
