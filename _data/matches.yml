@@ -5,12 +5,12 @@
     team2: کرواسی
     flag1: assets/img/flags/bra.png
     flag2: assets/img/flags/cro.png
-    pts1: "zero"
-    pts2: "0"
-    goal1: ""
-    goal2: ""
-    yellow1: ""
-    yellow2: ""
+    pts1: "3"
+    pts2: "1"
+    goal1: "نیمار ('29, '71 پنالتی), اسکار ('90)"
+    goal2: "مارسلو ('11) گل به خودی"
+    yellow1: "نیمار ('27), لوئيز گوستاوو ('88)"
+    yellow2: "ودران کورلوکا ('65), دژان لورن ('69)"
     red1: ""
     red2: ""
     time: "00:30"
