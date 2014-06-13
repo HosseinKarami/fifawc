@@ -90,24 +90,9 @@
                 width: 16px;
               }
               span{
-                font-family: Mitra;
+                font-family: Yekan;
                 font-size: .9rem;
                 vertical-align: middle;
-                @include phone{
-                  font-size: .9rem;
-                }
-                @include tablet{
-                  font-size: 1rem;
-                }
-                @include desktop{
-                  font-size: 1.2rem;
-                }
-                @include largedesktop{
-                  font-size: 1.2rem;
-                }
-                @include biglargedesktop{
-                  font-size: 1.2rem;
-                }
               }
             }
           }
@@ -124,24 +109,9 @@
                 width: 16px;
               }
               span{
-                font-family: Mitra;
+                font-family: Yekan;
                 font-size: .9rem;
                 vertical-align: middle;
-                @include phone{
-                  font-size: .9rem;
-                }
-                @include tablet{
-                  font-size: 1rem;
-                }
-                @include desktop{
-                  font-size: 1.2rem;
-                }
-                @include largedesktop{
-                  font-size: 1.2rem;
-                }
-                @include biglargedesktop{
-                  font-size: 1.2rem;
-                }
               }
             }
           }
