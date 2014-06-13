@@ -21,12 +21,12 @@
     team2: کامرون
     flag1: assets/img/flags/mex.png
     flag2: assets/img/flags/cmr.png
-    pts1: "zero"
+    pts1: "1"
     pts2: "0"
-    goal1: ""
+    goal1: "اوريبه پرالتا ('61)"
     goal2: ""
-    yellow1: ""
-    yellow2: ""
+    yellow1: "هکتور مورنو ('57)"
+    yellow2: "دني نونکئو ('77)"
     red1: ""
     red2: ""
     time: "20:30"

@@ -11,21 +11,21 @@
     points: "3"
   - team: مکزیک
     flag: assets/img/flags/mex.png
-    played: "0"
-    won: "0"
+    played: "1"
+    won: "1"
     draw: "0"
     lost: "0"
-    GF: "0"
+    GF: "1"
     GA: "0"
-    points: "0"
+    points: "3"
   - team: کامرون
     flag: assets/img/flags/cmr.png
-    played: "0"
+    played: "1"
     won: "0"
     draw: "0"
-    lost: "0"
+    lost: "1"
     GF: "0"
-    GA: "0"
+    GA: "1"
     points: "0"
   - team: کرواسی
     flag: assets/img/flags/cro.png
