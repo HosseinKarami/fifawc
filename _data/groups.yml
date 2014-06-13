@@ -39,24 +39,15 @@
 
 - group: B
   teams:
-  - team: اسپانیا
-    flag: assets/img/flags/esp.png
-    played: "0"
-    won: "0"
-    draw: "0"
-    lost: "0"
-    GF: "0"
-    GA: "0"
-    points: "0"
   - team: هلند
     flag: assets/img/flags/ned.png
-    played: "0"
-    won: "0"
+    played: "1"
+    won: "1"
     draw: "0"
     lost: "0"
-    GF: "0"
-    GA: "0"
-    points: "0"
+    GF: "5"
+    GA: "1"
+    points: "3"
   - team: شیلی
     flag: assets/img/flags/chi.png
     played: "0"
@@ -74,6 +65,15 @@
     lost: "0"
     GF: "0"
     GA: "0"
+    points: "0"
+  - team: اسپانیا
+    flag: assets/img/flags/esp.png
+    played: "1"
+    won: "0"
+    draw: "0"
+    lost: "1"
+    GF: "1"
+    GA: "5"
     points: "0"
 
 - group: C
