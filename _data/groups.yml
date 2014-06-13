@@ -54,7 +54,7 @@
     won: "1"
     draw: "0"
     lost: "0"
-    GF: "2"
+    GF: "3"
     GA: "1"
     points: "3"
   - team: استرالیا
@@ -64,7 +64,7 @@
     draw: "0"
     lost: "1"
     GF: "1"
-    GA: "2"
+    GA: "3"
     points: "0"
   - team: اسپانیا
     flag: assets/img/flags/esp.png
