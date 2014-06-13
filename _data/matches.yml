@@ -56,12 +56,12 @@
     team2: استرالیا
     flag1: assets/img/flags/chi.png
     flag2: assets/img/flags/aus.png
-    pts1: "zero"
-    pts2: "0"
-    goal1: ""
-    goal2: ""
-    yellow1: ""
-    yellow2: ""
+    pts1: "2"
+    pts2: "1"
+    goal1: "الكسيس سانچز ('12), جورج والديويا ('14)"
+    goal2: "تيم كهيل ('35)"
+    yellow1: "چارلز آرانگوز ('86)"
+    yellow2: "تيم كهيل ('44), مايل ژديناک ('58), مارک ميليگان ('67)"
     red1: ""
     red2: ""
     time: "02:30"
