@@ -117,24 +117,15 @@
 
 - group: D
   teams:
-  - team: اروگوئه
-    flag: assets/img/flags/uru.png
-    played: "0"
-    won: "0"
-    draw: "0"
-    lost: "0"
-    GF: "0"
-    GA: "0"
-    points: "0"
   - team: کاستاريکا
     flag: assets/img/flags/crc.png
-    played: "0"
-    won: "0"
+    played: "1"
+    won: "1"
     draw: "0"
     lost: "0"
-    GF: "0"
-    GA: "0"
-    points: "0"
+    GF: "3"
+    GA: "1"
+    points: "3"
   - team: انگلیس
     flag: assets/img/flags/eng.png
     played: "0"
@@ -152,6 +143,15 @@
     lost: "0"
     GF: "0"
     GA: "0"
+    points: "0"
+  - team: اروگوئه
+    flag: assets/img/flags/uru.png
+    played: "1"
+    won: "0"
+    draw: "0"
+    lost: "1"
+    GF: "1"
+    GA: "3"
     points: "0"
 
 - group: E
