@@ -84,7 +84,7 @@
     won: "1"
     draw: "0"
     lost: "0"
-    GF: "2"
+    GF: "3"
     GA: "0"
     points: "3"
   - team: ساحل عاج
@@ -112,7 +112,7 @@
     draw: "0"
     lost: "1"
     GF: "0"
-    GA: "2"
+    GA: "3"
     points: "0"
 
 - group: D
