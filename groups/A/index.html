@@ -62,37 +62,55 @@ layout: default
   {% if  itm.pts1 == 'zero' %} {% else %}
       <article class="contents">
         <div class="team-a">
-          <ul>
-            <li>
-              <img src="{{ site.url }}/assets/img/goal.png" alt="">
-              <span>{{ itm.goal1 }}</span>
-            </li>
-            <li>
-              <img src="{{ site.url }}/assets/img/YellowCard.png" alt="">
-              <span>{{ itm.yellow1 }}</span>
-            </li>
-            <li>
-              <img src="{{ site.url }}/assets/img/RedCard.png" alt="">
-              <span>{{ itm.red1 }}</span>
-            </li>
-          </ul>
-        </div>
-        <div class="team-b">
-          <ul>
-            <li>
-              <img src="{{ site.url }}/assets/img/goal.png" alt="">
-              <span>{{ itm.goal2 }}</span>
-            </li>
-            <li>
-              <img src="{{ site.url }}/assets/img/YellowCard.png" alt="">
-              <span>{{ itm.yellow2 }}</span>
-            </li>
-            <li>
-              <img src="{{ site.url }}/assets/img/RedCard.png" alt="">
-              <span>{{ itm.red2 }}</span>
-            </li>
-          </ul>
-        </div>
+            <ul>
+              {% if  itm.pts1 == '0' %}
+              {% else %}
+              <li>
+                <img src="{{ site.url }}/assets/img/goal.png" alt="">
+                <span>{{ itm.goal1 }}</span>
+              </li>
+              {% endif %}
+              {% if  itm.yellow1 == '0' %}
+              {% else %}
+              <li>
+                <img src="{{ site.url }}/assets/img/YellowCard.png" alt="">
+                <span>{{ itm.yellow1 }}</span>
+              </li>
+              {% endif %}
+              {% if  itm.red1 == '0' %}
+              {% else %}
+              <li>
+                <img src="{{ site.url }}/assets/img/RedCard.png" alt="">
+                <span>{{ itm.red1 }}</span>
+              </li>
+              {% endif %}
+            </ul>
+          </div>
+          <div class="team-b">
+            <ul>
+              {% if  itm.pts2 == '0' %}
+              {% else %}
+              <li>
+                <img src="{{ site.url }}/assets/img/goal.png" alt="">
+                <span>{{ itm.goal2 }}</span>
+              </li>
+              {% endif %}
+              {% if  itm.yellow2 == '0' %}
+              {% else %}
+              <li>
+                <img src="{{ site.url }}/assets/img/YellowCard.png" alt="">
+                <span>{{ itm.yellow2 }}</span>
+              </li>
+              {% endif %}
+              {% if  itm.red2 == '0' %}
+              {% else %}
+              <li>
+                <img src="{{ site.url }}/assets/img/RedCard.png" alt="">
+                <span>{{ itm.red2 }}</span>
+              </li>
+              {% endif %}
+            </ul>
+          </div>
       </article>
       {% endif %}
     </details>

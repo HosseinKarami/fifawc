@@ -11,8 +11,8 @@
     goal2: "مارسلو ('11) گل به خودی"
     yellow1: "نیمار ('27), لوئيز گوستاوو ('88)"
     yellow2: "ودران کورلوکا ('65), دژان لورن ('69)"
-    red1: ""
-    red2: ""
+    red1: "0"
+    red2: "0"
     time: "00:30"
     stadium: Arena Corinthians
     city: Sao Paulo
@@ -27,8 +27,8 @@
     goal2: ""
     yellow1: "هکتور مورنو ('57)"
     yellow2: "دني نونکئو ('77)"
-    red1: ""
-    red2: ""
+    red1: "0"
+    red2: "0"
     time: "20:30"
     stadium: Estadio das Dunas
     city: Natal
@@ -43,8 +43,8 @@
     goal2: "فان پرسي ('44, '72), آرين روبن ('53, '80), استفان ديوريج ('64)"
     yellow1: "ايکر کاسياس ('65)"
     yellow2: "جاناتان دِگوژمان ('25), استفان ديوريج ('41), فان پرسي ('66)"
-    red1: ""
-    red2: ""
+    red1: "0"
+    red2: "0"
     time: "23:30"
     stadium: Arena Fonte Nova
     city: Salvador
@@ -62,8 +62,8 @@
     goal2: "تيم كهيل ('35)"
     yellow1: "چارلز آرانگوز ('86)"
     yellow2: "تيم كهيل ('44), مايل ژديناک ('58), مارک ميليگان ('67)"
-    red1: ""
-    red2: ""
+    red1: "0"
+    red2: "0"
     time: "02:30"
     stadium: Arena Pantanal
     city: Cuiaba
@@ -76,10 +76,10 @@
     pts2: "0"
     goal1: ""
     goal2: ""
-    yellow1: ""
-    yellow2: ""
-    red1: ""
-    red2: ""
+    yellow1: "0"
+    yellow2: "0"
+    red1: "0"
+    red2: "0"
     time: "20:30"
     stadium: Estadio Mineirao
     city: Belo Horizonte
@@ -92,10 +92,10 @@
     pts2: "0"
     goal1: ""
     goal2: ""
-    yellow1: ""
-    yellow2: ""
-    red1: ""
-    red2: ""
+    yellow1: "0"
+    yellow2: "0"
+    red1: "0"
+    red2: "0"
     time: "23:30"
     stadium: Estadio Castelao
     city: Fortaleza
@@ -111,10 +111,10 @@
     pts2: "0"
     goal1: ""
     goal2: ""
-    yellow1: ""
-    yellow2: ""
-    red1: ""
-    red2: ""
+    yellow1: "0"
+    yellow2: "0"
+    red1: "0"
+    red2: "0"
     time: "02:30"
     stadium: Arena Amazonia
     city: Manaus
@@ -127,10 +127,10 @@
     pts2: "0"
     goal1: ""
     goal2: ""
-    yellow1: ""
-    yellow2: ""
-    red1: ""
-    red2: ""
+    yellow1: "0"
+    yellow2: "0"
+    red1: "0"
+    red2: "0"
     time: "05:30"
     stadium: Arena Pernambuco
     city: Recife
@@ -143,10 +143,10 @@
     pts2: "0"
     goal1: ""
     goal2: ""
-    yellow1: ""
-    yellow2: ""
-    red1: ""
-    red2: ""
+    yellow1: "0"
+    yellow2: "0"
+    red1: "0"
+    red2: "0"
     time: "20:30"
     stadium: Estadio Nacional
     city: Brasilia
@@ -159,10 +159,10 @@
     pts2: "0"
     goal1: ""
     goal2: ""
-    yellow1: ""
-    yellow2: ""
-    red1: ""
-    red2: ""
+    yellow1: "0"
+    yellow2: "0"
+    red1: "0"
+    red2: "0"
     time: "23:30"
     stadium: Estadio Beira-Rio
     city: Porto Alegre
@@ -178,10 +178,10 @@
     pts2: "0"
     goal1: ""
     goal2: ""
-    yellow1: ""
-    yellow2: ""
-    red1: ""
-    red2: ""
+    yellow1: "0"
+    yellow2: "0"
+    red1: "0"
+    red2: "0"
     time: "02:30"
     stadium: Maracanã - Estádio Jornalista Mário Filho
     city: Rio De Janeiro
@@ -194,10 +194,10 @@
     pts2: "0"
     goal1: ""
     goal2: ""
-    yellow1: ""
-    yellow2: ""
-    red1: ""
-    red2: ""
+    yellow1: "0"
+    yellow2: "0"
+    red1: "0"
+    red2: "0"
     time: "20:30"
     stadium: Arena Fonte Nova
     city: Salvador
@@ -210,10 +210,10 @@
     pts2: "0"
     goal1: ""
     goal2: ""
-    yellow1: ""
-    yellow2: ""
-    red1: ""
-    red2: ""
+    yellow1: "0"
+    yellow2: "0"
+    red1: "0"
+    red2: "0"
     time: "23:30"
     stadium: Arena da Baixada
     city: Curitiba
@@ -229,10 +229,10 @@
     pts2: "0"
     goal1: ""
     goal2: ""
-    yellow1: ""
-    yellow2: ""
-    red1: ""
-    red2: ""
+    yellow1: "0"
+    yellow2: "0"
+    red1: "0"
+    red2: "0"
     time: "02:30"
     stadium: Estadio das Dunas
     city: Natal
@@ -245,10 +245,10 @@
     pts2: "0"
     goal1: ""
     goal2: ""
-    yellow1: ""
-    yellow2: ""
-    red1: ""
-    red2: ""
+    yellow1: "0"
+    yellow2: "0"
+    red1: "0"
+    red2: "0"
     time: "20:30"
     stadium: Estadio Mineirao
     city: Belo Horizonte
@@ -261,10 +261,10 @@
     pts2: "0"
     goal1: ""
     goal2: ""
-    yellow1: ""
-    yellow2: ""
-    red1: ""
-    red2: ""
+    yellow1: "0"
+    yellow2: "0"
+    red1: "0"
+    red2: "0"
     time: "23:30"
     stadium: Estadio Castelao
     city: Fortaleza
@@ -280,10 +280,10 @@
     pts2: "0"
     goal1: ""
     goal2: ""
-    yellow1: ""
-    yellow2: ""
-    red1: ""
-    red2: ""
+    yellow1: "0"
+    yellow2: "0"
+    red1: "0"
+    red2: "0"
     time: "02:30"
     stadium: Arena Pantanal
     city: Cuiaba
@@ -296,10 +296,10 @@
     pts2: "0"
     goal1: ""
     goal2: ""
-    yellow1: ""
-    yellow2: ""
-    red1: ""
-    red2: ""
+    yellow1: "0"
+    yellow2: "0"
+    red1: "0"
+    red2: "0"
     time: "20:30"
     stadium: Estadio Beira-Rio
     city: Porto Alegre
@@ -312,10 +312,10 @@
     pts2: "0"
     goal1: ""
     goal2: ""
-    yellow1: ""
-    yellow2: ""
-    red1: ""
-    red2: ""
+    yellow1: "0"
+    yellow2: "0"
+    red1: "0"
+    red2: "0"
     time: "23:30"
     stadium: Maracanã - Estádio Jornalista Mário Filho
     city: Rio De Janeiro
@@ -331,10 +331,10 @@
     pts2: "0"
     goal1: ""
     goal2: ""
-    yellow1: ""
-    yellow2: ""
-    red1: ""
-    red2: ""
+    yellow1: "0"
+    yellow2: "0"
+    red1: "0"
+    red2: "0"
     time: "02:30"
     stadium: Arena Amazonia
     city: Manaus
@@ -347,10 +347,10 @@
     pts2: "0"
     goal1: ""
     goal2: ""
-    yellow1: ""
-    yellow2: ""
-    red1: ""
-    red2: ""
+    yellow1: "0"
+    yellow2: "0"
+    red1: "0"
+    red2: "0"
     time: "20:30"
     stadium: Estadio Nacional
     city: Brasilia
@@ -363,10 +363,10 @@
     pts2: "0"
     goal1: ""
     goal2: ""
-    yellow1: ""
-    yellow2: ""
-    red1: ""
-    red2: ""
+    yellow1: "0"
+    yellow2: "0"
+    red1: "0"
+    red2: "0"
     time: "23:30"
     stadium: Arena de Sao Paulo
     city: Sao Paulo
@@ -382,10 +382,10 @@
     pts2: "0"
     goal1: ""
     goal2: ""
-    yellow1: ""
-    yellow2: ""
-    red1: ""
-    red2: ""
+    yellow1: "0"
+    yellow2: "0"
+    red1: "0"
+    red2: "0"
     time: "02:30"
     stadium: Estadio das Dunas
     city: Natal
@@ -398,10 +398,10 @@
     pts2: "0"
     goal1: ""
     goal2: ""
-    yellow1: ""
-    yellow2: ""
-    red1: ""
-    red2: ""
+    yellow1: "0"
+    yellow2: "0"
+    red1: "0"
+    red2: "0"
     time: "20:30"
     stadium: Arena Pernambuco
     city: Recife
@@ -414,10 +414,10 @@
     pts2: "0"
     goal1: ""
     goal2: ""
-    yellow1: ""
-    yellow2: ""
-    red1: ""
-    red2: ""
+    yellow1: "0"
+    yellow2: "0"
+    red1: "0"
+    red2: "0"
     time: "23:30"
     stadium: Arena Fonte Nova
     city: Salvador
@@ -433,10 +433,10 @@
     pts2: "0"
     goal1: ""
     goal2: ""
-    yellow1: ""
-    yellow2: ""
-    red1: ""
-    red2: ""
+    yellow1: "0"
+    yellow2: "0"
+    red1: "0"
+    red2: "0"
     time: "02:30"
     stadium: Arena da Baixada
     city: Curitiba
@@ -449,10 +449,10 @@
     pts2: "0"
     goal1: ""
     goal2: ""
-    yellow1: ""
-    yellow2: ""
-    red1: ""
-    red2: ""
+    yellow1: "0"
+    yellow2: "0"
+    red1: "0"
+    red2: "0"
     time: "20:30"
     stadium: Estadio Mineirao
     city: Belo Horizonte
@@ -465,10 +465,10 @@
     pts2: "0"
     goal1: ""
     goal2: ""
-    yellow1: ""
-    yellow2: ""
-    red1: ""
-    red2: ""
+    yellow1: "0"
+    yellow2: "0"
+    red1: "0"
+    red2: "0"
     time: "23:30"
     stadium: Estadio Castelao
     city: Fortaleza
@@ -484,10 +484,10 @@
     pts2: "0"
     goal1: ""
     goal2: ""
-    yellow1: ""
-    yellow2: ""
-    red1: ""
-    red2: ""
+    yellow1: "0"
+    yellow2: "0"
+    red1: "0"
+    red2: "0"
     time: "02:30"
     stadium: Arena Pantanal
     city: Cuiaba
@@ -500,10 +500,10 @@
     pts2: "0"
     goal1: ""
     goal2: ""
-    yellow1: ""
-    yellow2: ""
-    red1: ""
-    red2: ""
+    yellow1: "0"
+    yellow2: "0"
+    red1: "0"
+    red2: "0"
     time: "20:30"
     stadium: Maracanã - Estádio Jornalista Mário Filho
     city: Rio De Janeiro
@@ -516,10 +516,10 @@
     pts2: "0"
     goal1: ""
     goal2: ""
-    yellow1: ""
-    yellow2: ""
-    red1: ""
-    red2: ""
+    yellow1: "0"
+    yellow2: "0"
+    red1: "0"
+    red2: "0"
     time: "23:30"
     stadium: Estadio Beira-Rio
     city: Porto Alegre
@@ -535,10 +535,10 @@
     pts2: "0"
     goal1: ""
     goal2: ""
-    yellow1: ""
-    yellow2: ""
-    red1: ""
-    red2: ""
+    yellow1: "0"
+    yellow2: "0"
+    red1: "0"
+    red2: "0"
     time: "02:30"
     stadium: Arena Amazonia
     city: Manaus
@@ -551,10 +551,10 @@
     pts2: "0"
     goal1: ""
     goal2: ""
-    yellow1: ""
-    yellow2: ""
-    red1: ""
-    red2: ""
+    yellow1: "0"
+    yellow2: "0"
+    red1: "0"
+    red2: "0"
     time: "20:30"
     stadium: Arena de Sao Paulo
     city: Sao Paulo
@@ -567,10 +567,10 @@
     pts2: "0"
     goal1: ""
     goal2: ""
-    yellow1: ""
-    yellow2: ""
-    red1: ""
-    red2: ""
+    yellow1: "0"
+    yellow2: "0"
+    red1: "0"
+    red2: "0"
     time: "20:30"
     stadium: Arena da Baixada
     city: Curitiba
@@ -586,10 +586,10 @@
     pts2: "0"
     goal1: ""
     goal2: ""
-    yellow1: ""
-    yellow2: ""
-    red1: ""
-    red2: ""
+    yellow1: "0"
+    yellow2: "0"
+    red1: "0"
+    red2: "0"
     time: "00:30"
     stadium: Estadio Nacional
     city: Brasilia
@@ -602,10 +602,10 @@
     pts2: "0"
     goal1: ""
     goal2: ""
-    yellow1: ""
-    yellow2: ""
-    red1: ""
-    red2: ""
+    yellow1: "0"
+    yellow2: "0"
+    red1: "0"
+    red2: "0"
     time: "00:30"
     stadium: Arena Pernambuco
     city: Recife
@@ -618,10 +618,10 @@
     pts2: "0"
     goal1: ""
     goal2: ""
-    yellow1: ""
-    yellow2: ""
-    red1: ""
-    red2: ""
+    yellow1: "0"
+    yellow2: "0"
+    red1: "0"
+    red2: "0"
     time: "20:30"
     stadium: Estadio das Dunas
     city: Natal
@@ -634,10 +634,10 @@
     pts2: "0"
     goal1: ""
     goal2: ""
-    yellow1: ""
-    yellow2: ""
-    red1: ""
-    red2: ""
+    yellow1: "0"
+    yellow2: "0"
+    red1: "0"
+    red2: "0"
     time: "20:30"
     stadium: Estadio Mineirao
     city: Belo Horizonte
@@ -653,10 +653,10 @@
     pts2: "0"
     goal1: ""
     goal2: ""
-    yellow1: ""
-    yellow2: ""
-    red1: ""
-    red2: ""
+    yellow1: "0"
+    yellow2: "0"
+    red1: "0"
+    red2: "0"
     time: "00:30"
     stadium: Arena Pantanal
     city: Cuiaba
@@ -669,10 +669,10 @@
     pts2: "0"
     goal1: ""
     goal2: ""
-    yellow1: ""
-    yellow2: ""
-    red1: ""
-    red2: ""
+    yellow1: "0"
+    yellow2: "0"
+    red1: "0"
+    red2: "0"
     time: "00:30"
     stadium: Estadio Castelao
     city: Fortaleza
@@ -685,10 +685,10 @@
     pts2: "0"
     goal1: ""
     goal2: ""
-    yellow1: ""
-    yellow2: ""
-    red1: ""
-    red2: ""
+    yellow1: "0"
+    yellow2: "0"
+    red1: "0"
+    red2: "0"
     time: "20:30"
     stadium: Estadio Beira-Rio
     city: Porto Alegre
@@ -701,10 +701,10 @@
     pts2: "0"
     goal1: ""
     goal2: ""
-    yellow1: ""
-    yellow2: ""
-    red1: ""
-    red2: ""
+    yellow1: "0"
+    yellow2: "0"
+    red1: "0"
+    red2: "0"
     time: "20:30"
     stadium: Arena Fonte Nova
     city: Salvador
@@ -720,10 +720,10 @@
     pts2: "0"
     goal1: ""
     goal2: ""
-    yellow1: ""
-    yellow2: ""
-    red1: ""
-    red2: ""
+    yellow1: "0"
+    yellow2: "0"
+    red1: "0"
+    red2: "0"
     time: "00:30"
     stadium: Arena Amazonia
     city: Manaus
@@ -736,10 +736,10 @@
     pts2: "0"
     goal1: ""
     goal2: ""
-    yellow1: ""
-    yellow2: ""
-    red1: ""
-    red2: ""
+    yellow1: "0"
+    yellow2: "0"
+    red1: "0"
+    red2: "0"
     time: "00:30"
     stadium: Maracanã - Estádio Jornalista Mário Filho
     city: Rio De Janeiro
@@ -752,10 +752,10 @@
     pts2: "0"
     goal1: ""
     goal2: ""
-    yellow1: ""
-    yellow2: ""
-    red1: ""
-    red2: ""
+    yellow1: "0"
+    yellow2: "0"
+    red1: "0"
+    red2: "0"
     time: "20:30"
     stadium: Estadio Nacional
     city: Brasilia
@@ -768,10 +768,10 @@
     pts2: "0"
     goal1: ""
     goal2: ""
-    yellow1: ""
-    yellow2: ""
-    red1: ""
-    red2: ""
+    yellow1: "0"
+    yellow2: "0"
+    red1: "0"
+    red2: "0"
     time: "20:30"
     stadium: Arena Pernambuco
     city: Recife
@@ -787,10 +787,10 @@
     pts2: "0"
     goal1: ""
     goal2: ""
-    yellow1: ""
-    yellow2: ""
-    red1: ""
-    red2: ""
+    yellow1: "0"
+    yellow2: "0"
+    red1: "0"
+    red2: "0"
     time: "00:30"
     stadium: Arena de Sao Paulo
     city: Sao Paulo
@@ -803,10 +803,10 @@
     pts2: "0"
     goal1: ""
     goal2: ""
-    yellow1: ""
-    yellow2: ""
-    red1: ""
-    red2: ""
+    yellow1: "0"
+    yellow2: "0"
+    red1: "0"
+    red2: "0"
     time: "00:30"
     stadium: Arena da Baixada
     city: Curitiba
@@ -822,10 +822,10 @@
     pts2: "0"
     goal1: ""
     goal2: ""
-    yellow1: ""
-    yellow2: ""
-    red1: ""
-    red2: ""
+    yellow1: "0"
+    yellow2: "0"
+    red1: "0"
+    red2: "0"
     time: "20:30"
     stadium: Estadio Mineirao
     city: Belo Horizonte
@@ -841,10 +841,10 @@
     pts2: "0"
     goal1: ""
     goal2: ""
-    yellow1: ""
-    yellow2: ""
-    red1: ""
-    red2: ""
+    yellow1: "0"
+    yellow2: "0"
+    red1: "0"
+    red2: "0"
     time: "00:30"
     stadium: Maracanã - Estádio Jornalista Mário Filho
     city: Rio De Janeiro
@@ -857,10 +857,10 @@
     pts2: "0"
     goal1: ""
     goal2: ""
-    yellow1: ""
-    yellow2: ""
-    red1: ""
-    red2: ""
+    yellow1: "0"
+    yellow2: "0"
+    red1: "0"
+    red2: "0"
     time: "20:30"
     stadium: Estadio Castelao
     city: Fortaleza
@@ -876,10 +876,10 @@
     pts2: "0"
     goal1: ""
     goal2: ""
-    yellow1: ""
-    yellow2: ""
-    red1: ""
-    red2: ""
+    yellow1: "0"
+    yellow2: "0"
+    red1: "0"
+    red2: "0"
     time: "00:30"
     stadium: Arena Pernambuco
     city: Recife
@@ -892,10 +892,10 @@
     pts2: "0"
     goal1: ""
     goal2: ""
-    yellow1: ""
-    yellow2: ""
-    red1: ""
-    red2: ""
+    yellow1: "0"
+    yellow2: "0"
+    red1: "0"
+    red2: "0"
     time: "20:30"
     stadium: Estadio Nacional
     city: Brasilia
@@ -911,10 +911,10 @@
     pts2: "0"
     goal1: ""
     goal2: ""
-    yellow1: ""
-    yellow2: ""
-    red1: ""
-    red2: ""
+    yellow1: "0"
+    yellow2: "0"
+    red1: "0"
+    red2: "0"
     time: "00:30"
     stadium: Estadio Beira-Rio
     city: Porto Alegre
@@ -927,10 +927,10 @@
     pts2: "0"
     goal1: ""
     goal2: ""
-    yellow1: ""
-    yellow2: ""
-    red1: ""
-    red2: ""
+    yellow1: "0"
+    yellow2: "0"
+    red1: "0"
+    red2: "0"
     time: "20:30"
     stadium: Arena de Sao Paulo
     city: Sao Paulo
@@ -946,10 +946,10 @@
     pts2: "0"
     goal1: ""
     goal2: ""
-    yellow1: ""
-    yellow2: ""
-    red1: ""
-    red2: ""
+    yellow1: "0"
+    yellow2: "0"
+    red1: "0"
+    red2: "0"
     time: "00:30"
     stadium: Arena Fonte Nova
     city: Salvador
@@ -965,10 +965,10 @@
     pts2: "0"
     goal1: ""
     goal2: ""
-    yellow1: ""
-    yellow2: ""
-    red1: ""
-    red2: ""
+    yellow1: "0"
+    yellow2: "0"
+    red1: "0"
+    red2: "0"
     time: "20:30"
     stadium: Maracanã - Estádio Jornalista Mário Filho
     city: Rio De Janeiro
@@ -984,10 +984,10 @@
     pts2: "0"
     goal1: ""
     goal2: ""
-    yellow1: ""
-    yellow2: ""
-    red1: ""
-    red2: ""
+    yellow1: "0"
+    yellow2: "0"
+    red1: "0"
+    red2: "0"
     time: "00:30"
     stadium: Estadio Castelao
     city: Fortaleza
@@ -1000,10 +1000,10 @@
     pts2: "0"
     goal1: ""
     goal2: ""
-    yellow1: ""
-    yellow2: ""
-    red1: ""
-    red2: ""
+    yellow1: "0"
+    yellow2: "0"
+    red1: "0"
+    red2: "0"
     time: "20:30"
     stadium: Estadio Nacional
     city: Brasilia
@@ -1019,10 +1019,10 @@
     pts2: "0"
     goal1: ""
     goal2: ""
-    yellow1: ""
-    yellow2: ""
-    red1: ""
-    red2: ""
+    yellow1: "0"
+    yellow2: "0"
+    red1: "0"
+    red2: "0"
     time: "00:30"
     stadium: Arena Fonte Nova
     city: Salvador
@@ -1038,10 +1038,10 @@
     pts2: "0"
     goal1: ""
     goal2: ""
-    yellow1: ""
-    yellow2: ""
-    red1: ""
-    red2: ""
+    yellow1: "0"
+    yellow2: "0"
+    red1: "0"
+    red2: "0"
     time: "00:30"
     stadium: Estadio Mineirao
     city: Belo Horizonte
@@ -1057,10 +1057,10 @@
     pts2: "0"
     goal1: ""
     goal2: ""
-    yellow1: ""
-    yellow2: ""
-    red1: ""
-    red2: ""
+    yellow1: "0"
+    yellow2: "0"
+    red1: "0"
+    red2: "0"
     time: "00:30"
     stadium: Arena de Sao Paulo
     city: Sao Paulo
@@ -1076,10 +1076,10 @@
     pts2: "0"
     goal1: ""
     goal2: ""
-    yellow1: ""
-    yellow2: ""
-    red1: ""
-    red2: ""
+    yellow1: "0"
+    yellow2: "0"
+    red1: "0"
+    red2: "0"
     time: "00:30"
     stadium: Estadio Nacional
     city: Brasilia
@@ -1095,10 +1095,10 @@
     pts2: "0"
     goal1: ""
     goal2: ""
-    yellow1: ""
-    yellow2: ""
-    red1: ""
-    red2: ""
+    yellow1: "0"
+    yellow2: "0"
+    red1: "0"
+    red2: "0"
     time: "23:30"
     stadium: Maracanã - Estádio Jornalista Mário Filho
     city: Rio De Janeiro
