@@ -103,7 +103,7 @@
     draw: "0"
     lost: "1"
     GF: "1"
-    GA: "2"
+    GA: "21"
     points: "0"
   - team: یونان
     flag: assets/img/flags/gre.png
@@ -158,22 +158,22 @@
   teams:
   - team: سوئیس
     flag: assets/img/flags/sui.png
-    played: "0"
+    played: "1"
     won: "0"
-    draw: "0"
+    draw: "1"
     lost: "0"
-    GF: "0"
-    GA: "0"
-    points: "0"
+    GF: "1"
+    GA: "1"
+    points: "1"
   - team: اکوادور
     flag: assets/img/flags/ecu.png
-    played: "0"
+    played: "1"
     won: "0"
-    draw: "0"
+    draw: "1"
     lost: "0"
-    GF: "0"
-    GA: "0"
-    points: "0"
+    GF: "1"
+    GA: "1"
+    points: "1"
   - team: فرانسه
     flag: assets/img/flags/fra.png
     played: "0"

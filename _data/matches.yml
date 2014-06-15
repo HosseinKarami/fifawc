@@ -139,12 +139,12 @@
     team2: اكوادور
     flag1: assets/img/flags/sui.png
     flag2: assets/img/flags/ecu.png
-    pts1: "zero"
-    pts2: "0"
-    goal1: ""
-    goal2: ""
-    yellow1: "0"
-    yellow2: "0"
+    pts1: "1"
+    pts2: "1"
+    goal1: "آدمير مهمدی ('48)"
+    goal2: "اينر والنسيا ('22)"
+    yellow1: "يوهان ژورو ('84)"
+    yellow2: "خوان کارلوس پاردس ('53)"
     red1: "0"
     red2: "0"
     time: "20:30"
