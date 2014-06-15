@@ -8,7 +8,7 @@
     pts1: "3"
     pts2: "1"
     goal1: "نیمار ('29, '71 P), اسکار ('90)"
-    goal2: "مارسلو ('11) گل به خودی"
+    goal2: "مارسلو ('11 OG)"
     yellow1: "نیمار ('27), لوئيز گوستاوو ('88)"
     yellow2: "ودران کورلوکا ('65), دژان لورن ('69)"
     red1: "0"
@@ -155,14 +155,14 @@
     team2: هندوراس
     flag1: assets/img/flags/fra.png
     flag2: assets/img/flags/hon.png
-    pts1: "zero"
+    pts1: "3"
     pts2: "0"
-    goal1: ""
+    goal1: "کريم بنزما ('72, '45 P), نوئل والادارس ('48 OG)"
     goal2: ""
-    yellow1: "0"
-    yellow2: "0"
+    yellow1: "پاتريس اورا ('7), پاول پوگبا ('28), يوهان کابايه ('45+)"
+    yellow2: "ويلسون پالاسيوس ('28, '43), اسکار گارسيا ('53), مينور فيگوئرا ('83)"
     red1: "0"
-    red2: "0"
+    red2: "ويلسون پالاسيوس ('43)"
     time: "23:30"
     stadium: Estadio Beira-Rio
     city: Porto Alegre
