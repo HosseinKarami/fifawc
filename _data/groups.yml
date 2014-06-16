@@ -236,22 +236,13 @@
   teams:
   - team: آلمان
     flag: assets/img/flags/ger.png
-    played: "0"
-    won: "0"
+    played: "1"
+    won: "1"
     draw: "0"
     lost: "0"
-    GF: "0"
+    GF: "4"
     GA: "0"
-    points: "0"
-  - team: پرتغال
-    flag: assets/img/flags/por.png
-    played: "0"
-    won: "0"
-    draw: "0"
-    lost: "0"
-    GF: "0"
-    GA: "0"
-    points: "0"
+    points: "3"
   - team: غنا
     flag: assets/img/flags/gha.png
     played: "0"
@@ -269,6 +260,15 @@
     lost: "0"
     GF: "0"
     GA: "0"
+    points: "0"
+  - team: پرتغال
+    flag: assets/img/flags/por.png
+    played: "1"
+    won: "0"
+    draw: "0"
+    lost: "1"
+    GF: "0"
+    GA: "4"
     points: "0"
 
 - group: H
