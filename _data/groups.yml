@@ -284,22 +284,22 @@
     points: "3"
   - team: روسیه
     flag: assets/img/flags/rus.png
-    played: "0"
+    played: "1"
     won: "0"
-    draw: "0"
+    draw: "1"
     lost: "0"
-    GF: "0"
-    GA: "0"
-    points: "0"
+    GF: "1"
+    GA: "1"
+    points: "1"
   - team: کره جنوبی
     flag: assets/img/flags/kor.png
-    played: "0"
+    played: "1"
     won: "0"
-    draw: "0"
+    draw: "1"
     lost: "0"
-    GF: "0"
-    GA: "0"
-    points: "0"
+    GF: "1"
+    GA: "1"
+    points: "1"
   - team: الجزایر
     flag: assets/img/flags/alg.png
     played: "1"

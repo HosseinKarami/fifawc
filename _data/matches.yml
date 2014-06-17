@@ -276,12 +276,12 @@
     team2: كره جنوبي
     flag1: assets/img/flags/rus.png
     flag2: assets/img/flags/kor.png
-    pts1: "zero"
-    pts2: "0"
-    goal1: ""
-    goal2: ""
-    yellow1: "0"
-    yellow2: "0"
+    pts1: "1"
+    pts2: "1"
+    goal1: "الکساندر کرژاکوف ('74)"
+    goal2: "لی کيون هو ('68)"
+    yellow1: "اولگ شاتوف ('49)"
+    yellow2: "سان هيونگ مين ('13), کی سونگ يئونگ ('30), کو جه چئول ('90)"
     red1: "0"
     red2: "0"
     time: "02:30"
