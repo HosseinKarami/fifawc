@@ -225,11 +225,11 @@
     team2: آمريكا
     flag1: assets/img/flags/gha.png
     flag2: assets/img/flags/usa.png
-    pts1: "zero"
-    pts2: "0"
-    goal1: ""
-    goal2: ""
-    yellow1: "0"
+    pts1: "1"
+    pts2: "2"
+    goal1: "آندره آيه وو ('82)"
+    goal2: "کلين دمپسی ('1), جان بروکس ('87)"
+    yellow1: "محمد ربيع ('30), سولي مونتاري ('90)"
     yellow2: "0"
     red1: "0"
     red2: "0"
