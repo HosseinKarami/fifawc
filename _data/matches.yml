@@ -241,12 +241,12 @@
     team2: الجزاير
     flag1: assets/img/flags/bel.png
     flag2: assets/img/flags/alg.png
-    pts1: "zero"
-    pts2: "0"
-    goal1: ""
-    goal2: ""
-    yellow1: "0"
-    yellow2: "0"
+    pts1: "2"
+    pts2: "1"
+    goal1: "مروانه فلينی ('70), دريس مارتينز ('80)"
+    goal2: "سوفيانه فقولی ('25 P)"
+    yellow1: "يان فرتونگن ('24)"
+    yellow2: "نبيل بن طالب ('34)"
     red1: "0"
     red2: "0"
     time: "20:30"
