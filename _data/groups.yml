@@ -2,22 +2,22 @@
   teams:
   - team: برزیل
     flag: assets/img/flags/bra.png
-    played: "1"
+    played: "2"
     won: "1"
-    draw: "0"
+    draw: "1"
     lost: "0"
     GF: "3"
     GA: "1"
-    points: "3"
+    points: "4"
   - team: مکزیک
     flag: assets/img/flags/mex.png
-    played: "1"
+    played: "2"
     won: "1"
-    draw: "0"
+    draw: "1"
     lost: "0"
     GF: "1"
     GA: "0"
-    points: "3"
+    points: "4"
   - team: کامرون
     flag: assets/img/flags/cmr.png
     played: "1"
