@@ -41,13 +41,13 @@
   teams:
   - team: هلند
     flag: assets/img/flags/ned.png
-    played: "1"
-    won: "1"
+    played: "2"
+    won: "2"
     draw: "0"
     lost: "0"
-    GF: "5"
-    GA: "1"
-    points: "3"
+    GF: "8"
+    GA: "3"
+    points: "6"
   - team: شیلی
     flag: assets/img/flags/chi.png
     played: "1"
@@ -57,15 +57,6 @@
     GF: "3"
     GA: "1"
     points: "3"
-  - team: استرالیا
-    flag: assets/img/flags/aus.png
-    played: "1"
-    won: "0"
-    draw: "0"
-    lost: "1"
-    GF: "1"
-    GA: "3"
-    points: "0"
   - team: اسپانیا
     flag: assets/img/flags/esp.png
     played: "1"
@@ -74,6 +65,15 @@
     lost: "1"
     GF: "1"
     GA: "5"
+    points: "0"
+  - team: استرالیا
+    flag: assets/img/flags/aus.png
+    played: "2"
+    won: "0"
+    draw: "0"
+    lost: "2"
+    GF: "3"
+    GA: "6"
     points: "0"
 
 - group: C

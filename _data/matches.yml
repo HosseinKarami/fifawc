@@ -292,12 +292,12 @@
     team2: هلند
     flag1: assets/img/flags/aus.png
     flag2: assets/img/flags/ned.png
-    pts1: "zero"
-    pts2: "0"
-    goal1: ""
-    goal2: ""
-    yellow1: "0"
-    yellow2: "0"
+    pts1: "2"
+    pts2: "3"
+    goal1: "تيم كيهيل ('21), مايل ژديناک ('55 P)"
+    goal2: "آرين روبن ('20), روبين فان‌پرسی ('58), ممفيس دپای ('68)"
+    yellow1: "تيم كيهيل ('44)"
+    yellow2: "روبين فان‌پرسی ('47)"
     red1: "0"
     red2: "0"
     time: "20:30"
