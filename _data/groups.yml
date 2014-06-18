@@ -50,13 +50,13 @@
     points: "6"
   - team: شیلی
     flag: assets/img/flags/chi.png
-    played: "1"
-    won: "1"
+    played: "2"
+    won: "2"
     draw: "0"
     lost: "0"
-    GF: "3"
+    GF: "5"
     GA: "1"
-    points: "3"
+    points: "6"
   - team: استرالیا
     flag: assets/img/flags/aus.png
     played: "2"
@@ -68,12 +68,12 @@
     points: "0"
   - team: اسپانیا
     flag: assets/img/flags/esp.png
-    played: "1"
+    played: "2"
     won: "0"
     draw: "0"
-    lost: "1"
+    lost: "2"
     GF: "1"
-    GA: "5"
+    GA: "7"
     points: "0"
 
 - group: C
