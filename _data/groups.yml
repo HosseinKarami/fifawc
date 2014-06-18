@@ -57,15 +57,6 @@
     GF: "3"
     GA: "1"
     points: "3"
-  - team: اسپانیا
-    flag: assets/img/flags/esp.png
-    played: "1"
-    won: "0"
-    draw: "0"
-    lost: "1"
-    GF: "1"
-    GA: "5"
-    points: "0"
   - team: استرالیا
     flag: assets/img/flags/aus.png
     played: "2"
@@ -74,6 +65,15 @@
     lost: "2"
     GF: "3"
     GA: "6"
+    points: "0"
+  - team: اسپانیا
+    flag: assets/img/flags/esp.png
+    played: "1"
+    won: "0"
+    draw: "0"
+    lost: "1"
+    GF: "1"
+    GA: "5"
     points: "0"
 
 - group: C
