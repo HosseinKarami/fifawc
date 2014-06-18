@@ -327,13 +327,13 @@
     team2: كرواسي
     flag1: assets/img/flags/cmr.png
     flag2: assets/img/flags/cro.png
-    pts1: "zero"
-    pts2: "0"
+    pts1: "0"
+    pts2: "4"
     goal1: ""
-    goal2: ""
+    goal2: "ايويکا اوليچ ('11), ايوان پريسيچ ('48), ماريو ماندژوکيچ ('61, '73)"
     yellow1: "0"
-    yellow2: "0"
-    red1: "0"
+    yellow2: "ادواردو داسيلوا ('89)"
+    red1: "الکساندر سانگ ('40)"
     red2: "0"
     time: "02:30"
     stadium: Arena Amazonia
