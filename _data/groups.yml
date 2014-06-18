@@ -103,7 +103,7 @@
     draw: "0"
     lost: "1"
     GF: "1"
-    GA: "21"
+    GA: "2"
     points: "0"
   - team: یونان
     flag: assets/img/flags/gre.png
