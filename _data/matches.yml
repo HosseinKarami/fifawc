@@ -359,12 +359,12 @@
     team2: انگليس
     flag1: assets/img/flags/uru.png
     flag2: assets/img/flags/eng.png
-    pts1: "zero"
-    pts2: "0"
-    goal1: ""
-    goal2: ""
-    yellow1: "0"
-    yellow2: "0"
+    pts1: "2"
+    pts2: "1"
+    goal1: "لوئيس سوارز ('39, '85)"
+    goal2: "وين رونی ('75)"
+    yellow1: "ديگو گودين ('9)"
+    yellow2: "استيون جرارد ('68)"
     red1: "0"
     red2: "0"
     time: "23:30"
