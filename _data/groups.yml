@@ -80,21 +80,21 @@
   teams:
   - team: کلمبیا
     flag: assets/img/flags/col.png
-    played: "1"
-    won: "1"
+    played: "2"
+    won: "2"
     draw: "0"
     lost: "0"
-    GF: "3"
-    GA: "0"
-    points: "3"
+    GF: "5"
+    GA: "1"
+    points: "6"
   - team: ساحل عاج
     flag: assets/img/flags/civ.png
-    played: "1"
+    played: "2"
     won: "1"
     draw: "0"
-    lost: "0"
-    GF: "2"
-    GA: "1"
+    lost: "1"
+    GF: "3"
+    GA: "3"
     points: "3"
   - team: ژاپن
     flag: assets/img/flags/jpn.png
