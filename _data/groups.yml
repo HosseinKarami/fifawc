@@ -98,22 +98,22 @@
     points: "3"
   - team: ژاپن
     flag: assets/img/flags/jpn.png
-    played: "1"
+    played: "2"
     won: "0"
-    draw: "0"
+    draw: "1"
     lost: "1"
     GF: "1"
     GA: "2"
-    points: "0"
+    points: "1"
   - team: یونان
     flag: assets/img/flags/gre.png
-    played: "1"
+    played: "2"
     won: "0"
-    draw: "0"
+    draw: "1"
     lost: "1"
     GF: "0"
     GA: "3"
-    points: "0"
+    points: "1"
 
 - group: D
   teams:
