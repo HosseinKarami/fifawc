@@ -162,7 +162,7 @@
     won: "2"
     draw: "0"
     lost: "0"
-    GF: "9"
+    GF: "8"
     GA: "2"
     points: "6"
   - team: سوئیس
@@ -172,7 +172,7 @@
     draw: "0"
     lost: "1"
     GF: "4"
-    GA: "7"
+    GA: "6"
     points: "3"
   - team: اکوادور
     flag: assets/img/flags/ecu.png
