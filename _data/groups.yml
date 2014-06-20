@@ -165,6 +165,15 @@
     GF: "8"
     GA: "2"
     points: "6"
+  - team: اکوادور
+    flag: assets/img/flags/ecu.png
+    played: "2"
+    won: "1"
+    draw: "0"
+    lost: "1"
+    GF: "3"
+    GA: "3"
+    points: "3"
   - team: سوئیس
     flag: assets/img/flags/sui.png
     played: "2"
@@ -174,23 +183,14 @@
     GF: "4"
     GA: "6"
     points: "3"
-  - team: اکوادور
-    flag: assets/img/flags/ecu.png
-    played: "1"
-    won: "0"
-    draw: "0"
-    lost: "1"
-    GF: "1"
-    GA: "2"
-    points: "0"
   - team: هندوراس
     flag: assets/img/flags/hon.png
-    played: "1"
+    played: "2"
     won: "0"
     draw: "0"
-    lost: "1"
-    GF: "0"
-    GA: "3"
+    lost: "2"
+    GF: "1"
+    GA: "5"
     points: "0"
 
 - group: F
