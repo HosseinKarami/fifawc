@@ -119,21 +119,21 @@
   teams:
   - team: کاستاريکا
     flag: assets/img/flags/crc.png
-    played: "1"
-    won: "1"
+    played: "2"
+    won: "2"
     draw: "0"
     lost: "0"
-    GF: "3"
+    GF: "4"
     GA: "1"
-    points: "3"
+    points: "6"
   - team: ایتالیا
     flag: assets/img/flags/ita.png
-    played: "1"
+    played: "2"
     won: "1"
     draw: "0"
-    lost: "0"
+    lost: "1"
     GF: "2"
-    GA: "1"
+    GA: "2"
     points: "3"
   - team: اروگوئه
     flag: assets/img/flags/uru.png

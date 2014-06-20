@@ -394,12 +394,12 @@
     team2: کاستاريکا
     flag1: assets/img/flags/ita.png
     flag2: assets/img/flags/crc.png
-    pts1: "zero"
-    pts2: "0"
+    pts1: "0"
+    pts2: "1"
     goal1: ""
-    goal2: ""
-    yellow1: "0"
-    yellow2: "0"
+    goal2: "برايان رويز ('44)"
+    yellow1: "ماريو بالوتلی ('69)"
+    yellow2: "خوزه ميگوئل کوبرو ('71)"
     red1: "0"
     red2: "0"
     time: "20:30"
