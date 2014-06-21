@@ -461,10 +461,10 @@
     team2: غنا
     flag1: assets/img/flags/ger.png
     flag2: assets/img/flags/gha.png
-    pts1: "zero"
-    pts2: "0"
-    goal1: ""
-    goal2: ""
+    pts1: "2"
+    pts2: "2"
+    goal1: "ماريو گوتزه ('51), ميروسلاو کلوزه ('71)"
+    goal2: "آندره آيه وو ('54), آساموآ جيان ('63)"
     yellow1: "0"
     yellow2: "0"
     red1: "0"
