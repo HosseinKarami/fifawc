@@ -445,12 +445,12 @@
     team2: ايران
     flag1: assets/img/flags/arg.png
     flag2: assets/img/flags/irn.png
-    pts1: "zero"
+    pts1: "1"
     pts2: "0"
-    goal1: ""
+    goal1: "ليونل مسی ('90 +)"
     goal2: ""
     yellow1: "0"
-    yellow2: "0"
+    yellow2: "جواد نکونام ('53), مسعود شجاعی ('73)"
     red1: "0"
     red2: "0"
     time: "20:30"

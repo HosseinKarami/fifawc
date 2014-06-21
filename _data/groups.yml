@@ -197,21 +197,21 @@
   teams:
   - team: آرژانتین
     flag: assets/img/flags/arg.png
-    played: "1"
-    won: "1"
+    played: "2"
+    won: "2"
     draw: "0"
     lost: "0"
-    GF: "2"
+    GF: "3"
     GA: "1"
-    points: "3"
+    points: "6"
   - team: ایران
     flag: assets/img/flags/irn.png
-    played: "1"
+    played: "2"
     won: "0"
     draw: "1"
-    lost: "0"
+    lost: "1"
     GF: "0"
-    GA: "0"
+    GA: "1"
     points: "1"
   - team: نیجریه
     flag: assets/img/flags/nga.png
