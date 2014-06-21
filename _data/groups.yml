@@ -204,15 +204,6 @@
     GF: "3"
     GA: "1"
     points: "6"
-  - team: ایران
-    flag: assets/img/flags/irn.png
-    played: "2"
-    won: "0"
-    draw: "1"
-    lost: "1"
-    GF: "0"
-    GA: "1"
-    points: "1"
   - team: نیجریه
     flag: assets/img/flags/nga.png
     played: "1"
@@ -221,6 +212,15 @@
     lost: "0"
     GF: "0"
     GA: "0"
+    points: "1"
+  - team: ایران
+    flag: assets/img/flags/irn.png
+    played: "2"
+    won: "0"
+    draw: "1"
+    lost: "1"
+    GF: "0"
+    GA: "1"
     points: "1"
   - team: بوسني هرزگوين
     flag: assets/img/flags/bih.png
