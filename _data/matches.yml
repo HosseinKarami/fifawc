@@ -512,12 +512,12 @@
     team2: الجزاير
     flag1: assets/img/flags/kor.png
     flag2: assets/img/flags/alg.png
-    pts1: "zero"
-    pts2: "0"
-    goal1: ""
-    goal2: ""
-    yellow1: "0"
-    yellow2: "0"
+    pts1: "2"
+    pts2: "4"
+    goal1: "سان هيونگ مين ('50), کو جه چئول ('72)"
+    goal2: "اسلام السليمانی ('26), رفيق هليچه ('28), عبدالمومن دابو ('38), ياسيان براهيمی ('62)"
+    yellow1: "لی يونگ ('54), هان کوک يونگ ('69)"
+    yellow2: "مجيد بوقرا ('67)"
     red1: "0"
     red2: "0"
     time: "23:30"
