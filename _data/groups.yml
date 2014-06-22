@@ -275,22 +275,13 @@
   teams:
   - team: بلژیک
     flag: assets/img/flags/bel.png
-    played: "1"
-    won: "1"
+    played: "2"
+    won: "2"
     draw: "0"
     lost: "0"
-    GF: "2"
+    GF: "3"
     GA: "1"
-    points: "3"
-  - team: روسیه
-    flag: assets/img/flags/rus.png
-    played: "1"
-    won: "0"
-    draw: "1"
-    lost: "0"
-    GF: "1"
-    GA: "1"
-    points: "1"
+    points: "6"
   - team: کره جنوبی
     flag: assets/img/flags/kor.png
     played: "1"
@@ -299,6 +290,15 @@
     lost: "0"
     GF: "1"
     GA: "1"
+    points: "1"
+  - team: روسیه
+    flag: assets/img/flags/rus.png
+    played: "2"
+    won: "0"
+    draw: "1"
+    lost: "1"
+    GF: "1"
+    GA: "2"
     points: "1"
   - team: الجزایر
     flag: assets/img/flags/alg.png
