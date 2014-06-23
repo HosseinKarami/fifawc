@@ -582,11 +582,11 @@
     team2: برزيل
     flag1: assets/img/flags/cmr.png
     flag2: assets/img/flags/bra.png
-    pts1: "zero"
-    pts2: "0"
-    goal1: ""
-    goal2: ""
-    yellow1: "0"
+    pts1: "1"
+    pts2: "4"
+    goal1: "ژوئل ماتيپ ('26)"
+    goal2: "نيمار ('17, '35), فرد ('49), فردينانديو ('84)"
+    yellow1: "يانگ انو ('11), ادگار سالی ('75), استفان امبيا ('80)"
     yellow2: "0"
     red1: "0"
     red2: "0"
@@ -598,13 +598,13 @@
     team2: مکزيک
     flag1: assets/img/flags/cro.png
     flag2: assets/img/flags/mex.png
-    pts1: "zero"
-    pts2: "0"
-    goal1: ""
-    goal2: ""
-    yellow1: "0"
-    yellow2: "0"
-    red1: "0"
+    pts1: "1"
+    pts2: "3"
+    goal1: "ايوان پريسيچ ('87)"
+    goal2: "رافائل مارکز ('72), آندرس گواردادو ('75), خاوير هرناندز ('82)"
+    yellow1: "ايوان راکيتيچ ('9)"
+    yellow2: "رافائل مارکز ('39), خوزه وازکوئز ('66)"
+    red1: "آنته ربيک ('89)"
     red2: "0"
     time: "00:30"
     stadium: Arena Pernambuco
