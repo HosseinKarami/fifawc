@@ -814,9 +814,9 @@
 - date: شنبه 07 تیر
   groups:
   - group: يک هشتم نهايي
-    team1: "[1A]"
+    team1: "برزیل"
     team2: "شيلي"
-    flag1: assets/img/flags/blank.png
+    flag1: assets/img/flags/bra.png
     flag2: assets/img/flags/chi.png
     pts1: "zero"
     pts2: "0"
@@ -850,9 +850,9 @@
     city: Rio De Janeiro
   - group: يک هشتم نهايي
     team1: "هلند"
-    team2: "[2A]"
+    team2: "مکزیک"
     flag1: assets/img/flags/ned.png
-    flag2: assets/img/flags/blank.png
+    flag2: assets/img/flags/mex.png
     pts1: "zero"
     pts2: "0"
     goal1: ""
