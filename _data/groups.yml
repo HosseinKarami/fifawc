@@ -45,7 +45,7 @@
     won: "3"
     draw: "0"
     lost: "0"
-    GF: "9"
+    GF: "10"
     GA: "3"
     points: "9"
   - team: شیلی
@@ -55,7 +55,7 @@
     draw: "0"
     lost: "1"
     GF: "5"
-    GA: "2"
+    GA: "3"
     points: "6"
   - team: اسپانیا
     flag: assets/img/flags/esp.png
