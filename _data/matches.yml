@@ -649,12 +649,12 @@
     team2: كلمبيا
     flag1: assets/img/flags/jpn.png
     flag2: assets/img/flags/col.png
-    pts1: "zero"
-    pts2: "0"
-    goal1: ""
-    goal2: ""
-    yellow1: "0"
-    yellow2: "0"
+    pts1: "1"
+    pts2: "4"
+    goal1: "شينجی اوکازاکی ('45 +)"
+    goal2: "خوان کودرادو ('17 P), جکسون مارتينز ('55, '82'), جيمز رودريگز ('90)"
+    yellow1: "ياسويوکی کونو ('16)"
+    yellow2: "فردي گوآرين ('63)"
     red1: "0"
     red2: "0"
     time: "00:30"
@@ -665,12 +665,12 @@
     team2: ساحل عاج
     flag1: assets/img/flags/gre.png
     flag2: assets/img/flags/civ.png
-    pts1: "zero"
-    pts2: "0"
-    goal1: ""
-    goal2: ""
+    pts1: "1"
+    pts2: "1"
+    goal1: "آندرس ساماريس ('42)"
+    goal2: "ويلفرد بونی ('74)"
     yellow1: "0"
-    yellow2: "0"
+    yellow2: "ديديه دروگبا ('37), سالومون کالو ('62), دای سری ('70)"
     red1: "0"
     red2: "0"
     time: "00:30"

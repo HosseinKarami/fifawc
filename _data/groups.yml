@@ -80,39 +80,39 @@
   teams:
   - team: کلمبیا
     flag: assets/img/flags/col.png
-    played: "2"
-    won: "2"
+    played: "3"
+    won: "3"
     draw: "0"
     lost: "0"
-    GF: "5"
-    GA: "1"
-    points: "6"
+    GF: "9"
+    GA: "2"
+    points: "9"
   - team: ساحل عاج
     flag: assets/img/flags/civ.png
-    played: "2"
+    played: "3"
     won: "1"
-    draw: "0"
-    lost: "1"
-    GF: "3"
-    GA: "3"
-    points: "3"
-  - team: ژاپن
-    flag: assets/img/flags/jpn.png
-    played: "2"
-    won: "0"
     draw: "1"
     lost: "1"
-    GF: "1"
-    GA: "2"
-    points: "1"
+    GF: "4"
+    GA: "4"
+    points: "4"
   - team: یونان
     flag: assets/img/flags/gre.png
-    played: "2"
+    played: "3"
+    won: "0"
+    draw: "2"
+    lost: "1"
+    GF: "1"
+    GA: "4"
+    points: "2"
+  - team: ژاپن
+    flag: assets/img/flags/jpn.png
+    played: "3"
     won: "0"
     draw: "1"
-    lost: "1"
-    GF: "0"
-    GA: "3"
+    lost: "2"
+    GF: "2"
+    GA: "6"
     points: "1"
 
 - group: D
