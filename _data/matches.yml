@@ -834,9 +834,9 @@
   groups:
   - group: يک هشتم نهايي
     team1: "[1C]"
-    team2: "[2D]"
+    team2: "اروگوئه"
     flag1: assets/img/flags/blank.png
-    flag2: assets/img/flags/blank.png
+    flag2: assets/img/flags/uru.png
     pts1: "zero"
     pts2: "0"
     goal1: ""
@@ -868,9 +868,9 @@
 - date: دوشنبه 09 تیر
   groups:
   - group: يک هشتم نهايي
-    team1: "[1D]"
+    team1: "کاستاريکا"
     team2: "[2C]"
-    flag1: assets/img/flags/blank.png
+    flag1: assets/img/flags/crc.png
     flag2: assets/img/flags/blank.png
     pts1: "zero"
     pts2: "0"
