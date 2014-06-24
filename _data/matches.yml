@@ -614,13 +614,13 @@
     team2: اروگوئه
     flag1: assets/img/flags/ita.png
     flag2: assets/img/flags/uru.png
-    pts1: "zero"
-    pts2: "0"
+    pts1: "0"
+    pts2: "1"
     goal1: ""
-    goal2: ""
-    yellow1: "0"
-    yellow2: "0"
-    red1: "0"
+    goal2: "ديگو گودين ('81)"
+    yellow1: "ماريو بالوتلی ('22), ماتيا ديشيليو ('77)"
+    yellow2: "اجيديو آروالو ('46), فرناندو موسلرا ('90 +)"
+    red1: "کلوديو مارکيزيو ('59)"
     red2: "0"
     time: "20:30"
     stadium: Estadio das Dunas
@@ -630,12 +630,12 @@
     team2: انگليس
     flag1: assets/img/flags/crc.png
     flag2: assets/img/flags/eng.png
-    pts1: "zero"
+    pts1: "0"
     pts2: "0"
     goal1: ""
     goal2: ""
-    yellow1: "0"
-    yellow2: "0"
+    yellow1: "جانکارلو گونزالز ('60)"
+    yellow2: "روز بارکلی ('53), آدام لالانا ('57)"
     red1: "0"
     red2: "0"
     time: "20:30"

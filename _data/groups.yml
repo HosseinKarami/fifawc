@@ -119,40 +119,40 @@
   teams:
   - team: کاستاريکا
     flag: assets/img/flags/crc.png
-    played: "2"
+    played: "3"
     won: "2"
-    draw: "0"
+    draw: "1"
     lost: "0"
     GF: "4"
     GA: "1"
+    points: "7"
+  - team: اروگوئه
+    flag: assets/img/flags/uru.png
+    played: "3"
+    won: "2"
+    draw: "0"
+    lost: "1"
+    GF: "4"
+    GA: "4"
     points: "6"
   - team: ایتالیا
     flag: assets/img/flags/ita.png
-    played: "2"
+    played: "3"
     won: "1"
-    draw: "0"
-    lost: "1"
-    GF: "2"
-    GA: "2"
-    points: "3"
-  - team: اروگوئه
-    flag: assets/img/flags/uru.png
-    played: "2"
-    won: "1"
-    draw: "0"
-    lost: "1"
-    GF: "3"
-    GA: "4"
-    points: "3"
-  - team: انگلیس
-    flag: assets/img/flags/eng.png
-    played: "2"
-    won: "0"
     draw: "0"
     lost: "2"
     GF: "2"
+    GA: "3"
+    points: "3"
+  - team: انگلیس
+    flag: assets/img/flags/eng.png
+    played: "3"
+    won: "0"
+    draw: "1"
+    lost: "2"
+    GF: "2"
     GA: "4"
-    points: "0"
+    points: "1"
 
 - group: E
   teams:
