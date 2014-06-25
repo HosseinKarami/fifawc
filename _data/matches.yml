@@ -885,9 +885,9 @@
     city: Recife
   - group: يک هشتم نهايي
     team1: "[1E]"
-    team2: "[2F]"
+    team2: "نیجریه"
     flag1: assets/img/flags/blank.png
-    flag2: assets/img/flags/blank.png
+    flag2: assets/img/flags/nga.png
     pts1: "zero"
     pts2: "0"
     goal1: ""
@@ -919,9 +919,9 @@
     stadium: Estadio Beira-Rio
     city: Porto Alegre
   - group: يک هشتم نهايي
-    team1: "[1F]"
+    team1: "آرژانتین"
     team2: "[2E]"
-    flag1: assets/img/flags/blank.png
+    flag1: assets/img/flags/arg.png
     flag2: assets/img/flags/blank.png
     pts1: "zero"
     pts2: "0"
