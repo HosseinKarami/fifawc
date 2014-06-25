@@ -158,39 +158,39 @@
   teams:
   - team: فرانسه
     flag: assets/img/flags/fra.png
-    played: "2"
+    played: "3"
     won: "2"
-    draw: "0"
+    draw: "1"
     lost: "0"
     GF: "8"
     GA: "2"
+    points: "7"
+  - team: سوئیس
+    flag: assets/img/flags/sui.png
+    played: "3"
+    won: "2"
+    draw: "0"
+    lost: "1"
+    GF: "7"
+    GA: "6"
     points: "6"
   - team: اکوادور
     flag: assets/img/flags/ecu.png
-    played: "2"
+    played: "3"
     won: "1"
-    draw: "0"
+    draw: "1"
     lost: "1"
     GF: "3"
     GA: "3"
-    points: "3"
-  - team: سوئیس
-    flag: assets/img/flags/sui.png
-    played: "2"
-    won: "1"
-    draw: "0"
-    lost: "1"
-    GF: "4"
-    GA: "6"
-    points: "3"
+    points: "4"
   - team: هندوراس
     flag: assets/img/flags/hon.png
-    played: "2"
+    played: "3"
     won: "0"
     draw: "0"
-    lost: "2"
+    lost: "3"
     GF: "1"
-    GA: "5"
+    GA: "8"
     points: "0"
 
 - group: F
