@@ -681,11 +681,11 @@
     team2: آرژانتين
     flag1: assets/img/flags/nga.png
     flag2: assets/img/flags/arg.png
-    pts1: "zero"
-    pts2: "0"
-    goal1: ""
-    goal2: ""
-    yellow1: "0"
+    pts1: "2"
+    pts2: "3"
+    goal1: "احمد موسی ('4, '47)"
+    goal2: "ليونل مسی ('3, '45 +), مارکوس روخو ('50)"
+    yellow1: "کنيث اومرو ('49), جوون اوشانيوا ('51)"
     yellow2: "0"
     red1: "0"
     red2: "0"
@@ -697,12 +697,12 @@
     team2: ايران
     flag1: assets/img/flags/bih.png
     flag2: assets/img/flags/irn.png
-    pts1: "zero"
-    pts2: "0"
-    goal1: ""
-    goal2: ""
-    yellow1: "0"
-    yellow2: "0"
+    pts1: "3"
+    pts2: "1"
+    goal1: "ادين ژکو ('23), ميرالم پيانيچ ('59), آوديجا ورساجوييچ ('83)"
+    goal2: "رضا قوچان نژاد ('82)"
+    yellow1: "محمد بسيچ ('77)"
+    yellow2: "کريم انصاری فرد ('88)"
     red1: "0"
     red2: "0"
     time: "20:30"

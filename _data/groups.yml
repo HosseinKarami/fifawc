@@ -197,40 +197,40 @@
   teams:
   - team: آرژانتین
     flag: assets/img/flags/arg.png
-    played: "2"
-    won: "2"
+    played: "3"
+    won: "3"
     draw: "0"
     lost: "0"
-    GF: "3"
-    GA: "1"
-    points: "6"
+    GF: "6"
+    GA: "3"
+    points: "9"
   - team: نیجریه
     flag: assets/img/flags/nga.png
-    played: "2"
+    played: "3"
     won: "1"
     draw: "1"
-    lost: "0"
-    GF: "1"
-    GA: "0"
-    points: "4"
-  - team: ایران
-    flag: assets/img/flags/irn.png
-    played: "2"
-    won: "0"
-    draw: "1"
     lost: "1"
-    GF: "0"
-    GA: "1"
-    points: "1"
+    GF: "3"
+    GA: "3"
+    points: "4"
   - team: بوسني هرزگوين
     flag: assets/img/flags/bih.png
-    played: "2"
-    won: "0"
+    played: "3"
+    won: "1"
     draw: "0"
     lost: "2"
+    GF: "4"
+    GA: "4"
+    points: "3"
+  - team: ایران
+    flag: assets/img/flags/irn.png
+    played: "3"
+    won: "0"
+    draw: "1"
+    lost: "2"
     GF: "1"
-    GA: "3"
-    points: "0"
+    GA: "4"
+    points: "1"
 
 - group: G
   teams:
