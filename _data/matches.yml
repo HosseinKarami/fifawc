@@ -904,9 +904,9 @@
   groups:
   - group: يک هشتم نهايي
     team1: "آلمان"
-    team2: "[2H]"
+    team2: "الجزایر"
     flag1: assets/img/flags/ger.png
-    flag2: assets/img/flags/blank.png
+    flag2: assets/img/flags/alg.png
     pts1: "zero"
     pts2: "0"
     goal1: ""
@@ -938,9 +938,9 @@
 - date: چهارشنبه 11 تیر
   groups:
   - group: يک هشتم نهايي
-    team1: "[1H]"
+    team1: "بلژیک"
     team2: "آمریکا"
-    flag1: assets/img/flags/blank.png
+    flag1: assets/img/flags/bel.png
     flag2: assets/img/flags/usa.png
     pts1: "zero"
     pts2: "0"
