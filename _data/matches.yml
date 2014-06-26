@@ -783,14 +783,14 @@
     team2: بلژیک
     flag1: assets/img/flags/kor.png
     flag2: assets/img/flags/bel.png
-    pts1: "zero"
-    pts2: "0"
+    pts1: "0"
+    pts2: "1"
     goal1: ""
-    goal2: ""
-    yellow1: "0"
-    yellow2: "0"
+    goal2: "يان فرتونگن ('78)"
+    yellow1: "هونگ زئونگ هو ('35)"
+    yellow2: "موسی دمبل ('50)"
     red1: "0"
-    red2: "0"
+    red2: "استيون ديفور ('45)"
     time: "00:30"
     stadium: Arena de Sao Paulo
     city: Sao Paulo
@@ -799,12 +799,12 @@
     team2: روسيه
     flag1: assets/img/flags/alg.png
     flag2: assets/img/flags/rus.png
-    pts1: "zero"
-    pts2: "0"
-    goal1: ""
-    goal2: ""
-    yellow1: "0"
-    yellow2: "0"
+    pts1: "1"
+    pts2: "1"
+    goal1: "اسلام السليمانی ('60)"
+    goal2: "الکساندر کوکورين ('6)"
+    yellow1: "جمال مصباح ('39), نبيل قيلاس ('87), لياشين کادامورو ('90 +)"
+    yellow2: "ديميتری کومباروف ('57), الکسی کوزلوف ('59)"
     red1: "0"
     red2: "0"
     time: "00:30"
