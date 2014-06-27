@@ -812,6 +812,7 @@
     city: Curitiba
 
 - date: شنبه 07 تیر
+  level: secondstage
   groups:
   - group: يک هشتم نهايي
     team1: "برزیل"
@@ -831,6 +832,7 @@
     city: Belo Horizonte
 
 - date: یکشنبه 08 تیر
+  level: secondstage
   groups:
   - group: يک هشتم نهايي
     team1: "کلمبیا"
@@ -866,6 +868,7 @@
     city: Fortaleza
 
 - date: دوشنبه 09 تیر
+  level: secondstage
   groups:
   - group: يک هشتم نهايي
     team1: "کاستاريکا"
@@ -901,6 +904,7 @@
     city: Brasilia
 
 - date: سه‌شنبه 10 تیر
+  level: secondstage
   groups:
   - group: يک هشتم نهايي
     team1: "آلمان"
@@ -936,6 +940,7 @@
     city: Sao Paulo
 
 - date: چهارشنبه 11 تیر
+  level: secondstage
   groups:
   - group: يک هشتم نهايي
     team1: "بلژیک"
@@ -955,6 +960,7 @@
     city: Salvador
 
 - date: جمعه 13 تیر
+  level: secondstage
   groups:
   - group: يک چهارم نهايي
     team1: "[W53]"
@@ -974,6 +980,7 @@
     city: Rio De Janeiro
 
 - date: شنبه 14 تیر
+  level: secondstage
   groups:
   - group: يک چهارم نهايي
     team1: "[W49]"
@@ -1009,6 +1016,7 @@
     city: Brasilia
 
 - date: یکشنبه 15 تیر
+  level: secondstage
   groups:
   - group: يک چهارم نهايي
     team1: "[W51]"
@@ -1028,6 +1036,7 @@
     city: Salvador
 
 - date: چهارشنبه 18 تیر
+  level: secondstage
   groups:
   - group: نيمه نهايي
     team1: "[W57]"
@@ -1047,6 +1056,7 @@
     city: Belo Horizonte
 
 - date: پنجشنبه 19 تیر
+  level: secondstage
   groups:
   - group: نيمه نهايي
     team1: "[W59]"
@@ -1066,6 +1076,7 @@
     city: Sao Paulo
 
 - date: یکشنبه 22 تیر
+  level: secondstage
   groups:
   - group: رده بندی
     team1: "[L61]"
@@ -1085,6 +1096,7 @@
     city: Brasilia
 
 - date: یکشنبه 22 تیر
+  level: secondstage
   groups:
   - group: فینال
     team1: "[W61]"

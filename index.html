@@ -3,6 +3,7 @@ layout: default
 ---
 <section class="matches">
     {% for item in site.data.matches %}
+    {% if  item.level == 'secondstage' %}
     <h4>{{ item.date }}</h4>
       {% for itm in item.groups %}
       <details>
@@ -80,6 +81,7 @@ layout: default
         {% endif %}
       </details>
       {% endfor %}
+      {% endif %}
     {% endfor %}
   </section>
 
