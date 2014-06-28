@@ -819,12 +819,12 @@
     team2: "شيلي"
     flag1: assets/img/flags/bra.png
     flag2: assets/img/flags/chi.png
-    pts1: "zero"
-    pts2: "0"
-    goal1: ""
-    goal2: ""
-    yellow1: "0"
-    yellow2: "0"
+    pts1: "1 (3)"
+    pts2: "(2) 1"
+    goal1: "داويد لوئيز ('18)"
+    goal2: "الكسيس سانچز ('32)"
+    yellow1: "هالک ('55), لوئيز گوستاوو ('60), جو ('93), دنی آلوز ('105)"
+    yellow2: "اگنيو منا ('17), فرانچسکو سيلوا ('40), مائوريسيو پينيا ('102)"
     red1: "0"
     red2: "0"
     time: "20:30"
@@ -983,9 +983,9 @@
   level: secondstage
   groups:
   - group: يک چهارم نهايي
-    team1: "[W49]"
+    team1: "برزیل"
     team2: "[W50]"
-    flag1: assets/img/flags/blank.png
+    flag1: assets/img/flags/bra.png
     flag2: assets/img/flags/blank.png
     pts1: "zero"
     pts2: "0"
