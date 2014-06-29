@@ -875,13 +875,13 @@
     team2: "یونان"
     flag1: assets/img/flags/crc.png
     flag2: assets/img/flags/gre.png
-    pts1: "zero"
-    pts2: "0"
-    goal1: ""
-    goal2: ""
-    yellow1: "0"
-    yellow2: "0"
-    red1: "0"
+    pts1: "1 (5)"
+    pts2: "(3) 1"
+    goal1: "برايان رويز ('52)"
+    goal2: "سقراطيس پاپاستاسوپولوس ('90 +)"
+    yellow1: "اسکار دوارته ('42, '66), يلستين تجدا ('48), اوسکار گرانادوس ('57), برايان رويز ('70), کيلور ناواس ('90)"
+    yellow2: "آندرس ساماريس ('36), كوشتاس مانولاس ('72)"
+    red1: "اسکار دوارته ('66)"
     red2: "0"
     time: "00:30"
     stadium: Arena Pernambuco
@@ -1020,9 +1020,9 @@
   groups:
   - group: يک چهارم نهايي
     team1: "هلند"
-    team2: "[W52]"
+    team2: "کاستاريکا"
     flag1: assets/img/flags/ned.png
-    flag2: assets/img/flags/blank.png
+    flag2: assets/img/flags/crc.png
     pts1: "zero"
     pts2: "0"
     goal1: ""
