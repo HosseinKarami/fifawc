@@ -855,12 +855,12 @@
     team2: "مکزیک"
     flag1: assets/img/flags/ned.png
     flag2: assets/img/flags/mex.png
-    pts1: "zero"
-    pts2: "0"
-    goal1: ""
-    goal2: ""
+    pts1: "2"
+    pts2: "1"
+    goal1: "وسلی اسنايدر ('88), کلاوس يان هونتلار ('90 + P)"
+    goal2: "جيووانی دوس سانتوس ('48)"
     yellow1: "0"
-    yellow2: "0"
+    yellow2: "پاول آگويلار ('69), رافائل مارکز ('90 +), آندرس گواردادو ('90 +)"
     red1: "0"
     red2: "0"
     time: "20:30"
@@ -1019,9 +1019,9 @@
   level: secondstage
   groups:
   - group: يک چهارم نهايي
-    team1: "[W51]"
+    team1: "هلند"
     team2: "[W52]"
-    flag1: assets/img/flags/blank.png
+    flag1: assets/img/flags/ned.png
     flag2: assets/img/flags/blank.png
     pts1: "zero"
     pts2: "0"
