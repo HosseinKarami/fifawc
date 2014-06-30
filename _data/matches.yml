@@ -891,11 +891,11 @@
     team2: "نیجریه"
     flag1: assets/img/flags/fra.png
     flag2: assets/img/flags/nga.png
-    pts1: "zero"
+    pts1: "2"
     pts2: "0"
-    goal1: ""
+    goal1: "پاول پوگبا ('79), جوزف يوبو ('90 + OG)"
     goal2: ""
-    yellow1: "0"
+    yellow1: "بليز ماتوئيدی ('54)"
     yellow2: "0"
     red1: "0"
     red2: "0"
@@ -963,9 +963,9 @@
   level: secondstage
   groups:
   - group: يک چهارم نهايي
-    team1: "[W53]"
+    team1: "فرانسه"
     team2: "[W54]"
-    flag1: assets/img/flags/blank.png
+    flag1: assets/img/flags/fra.png
     flag2: assets/img/flags/blank.png
     pts1: "zero"
     pts2: "0"
