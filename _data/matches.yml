@@ -911,12 +911,12 @@
     team2: "الجزایر"
     flag1: assets/img/flags/ger.png
     flag2: assets/img/flags/alg.png
-    pts1: "zero"
+    pts1: "1"
     pts2: "0"
-    goal1: ""
+    goal1: "آندره شورله ('92)"
     goal2: ""
-    yellow1: "0"
-    yellow2: "0"
+    yellow1: "فيليپ لام ('107)"
+    yellow2: "رفيق هليچه ('42)"
     red1: "0"
     red2: "0"
     time: "00:30"
@@ -964,9 +964,9 @@
   groups:
   - group: يک چهارم نهايي
     team1: "فرانسه"
-    team2: "[W54]"
+    team2: "آلمان"
     flag1: assets/img/flags/fra.png
-    flag2: assets/img/flags/blank.png
+    flag2: assets/img/flags/ger.png
     pts1: "zero"
     pts2: "0"
     goal1: ""
