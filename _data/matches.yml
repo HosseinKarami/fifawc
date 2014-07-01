@@ -927,12 +927,12 @@
     team2: "سوئیس"
     flag1: assets/img/flags/arg.png
     flag2: assets/img/flags/sui.png
-    pts1: "zero"
+    pts1: "1"
     pts2: "0"
-    goal1: ""
+    goal1: "آنخل دی ماريا ('118)"
     goal2: ""
-    yellow1: "0"
-    yellow2: "0"
+    yellow1: "مارکوس روخو ('90), آنخل دی ماريا ('120)"
+    yellow2: "گرانيت ژاکا ('36), گلسون فرناندز ('73)"
     red1: "0"
     red2: "0"
     time: "20:30"
@@ -999,9 +999,9 @@
     stadium: Estadio Castelao
     city: Fortaleza
   - group: يک چهارم نهايي
-    team1: "[W55]"
+    team1: "آرژانتین"
     team2: "[W56]"
-    flag1: assets/img/flags/blank.png
+    flag1: assets/img/flags/arg.png
     flag2: assets/img/flags/blank.png
     pts1: "zero"
     pts2: "0"
