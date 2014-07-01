@@ -947,12 +947,12 @@
     team2: "آمریکا"
     flag1: assets/img/flags/bel.png
     flag2: assets/img/flags/usa.png
-    pts1: "zero"
-    pts2: "0"
-    goal1: ""
-    goal2: ""
-    yellow1: "0"
-    yellow2: "0"
+    pts1: "2"
+    pts2: "1"
+    goal1: "کوين دی بروين ('93), روملو لوکاکو ('105)"
+    goal2: "جوليان گرين ('107)"
+    yellow1: "وينسنت کمپانی ('42)"
+    yellow2: "ژئوف کامرون ('18)"
     red1: "0"
     red2: "0"
     time: "00:30"
@@ -1000,9 +1000,9 @@
     city: Fortaleza
   - group: يک چهارم نهايي
     team1: "آرژانتین"
-    team2: "[W56]"
+    team2: "بلژیک"
     flag1: assets/img/flags/arg.png
-    flag2: assets/img/flags/blank.png
+    flag2: assets/img/flags/bel.png
     pts1: "zero"
     pts2: "0"
     goal1: ""
