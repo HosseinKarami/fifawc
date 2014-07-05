@@ -1023,12 +1023,12 @@
     team2: "کاستاريکا"
     flag1: assets/img/flags/ned.png
     flag2: assets/img/flags/crc.png
-    pts1: "zero"
-    pts2: "0"
+    pts1: "0 (4)"
+    pts2: "(3) 0"
     goal1: ""
     goal2: ""
-    yellow1: "0"
-    yellow2: "0"
+    yellow1: "برونو مارتينز ايندی ('64), کلاوس يان هونتلار ('111)"
+    yellow2: "جونيور دياز ('37), ميشل اومانا ('52), جانکارلو گونزالز ('81), جانی آکوستا ('106)"
     red1: "0"
     red2: "0"
     time: "00:30"
@@ -1059,9 +1059,9 @@
   level: secondstage
   groups:
   - group: نيمه نهايي
-    team1: "[W59]"
+    team1: "هلند"
     team2: "آرژانتین"
-    flag1: assets/img/flags/blank.png
+    flag1: assets/img/flags/ned.png
     flag2: assets/img/flags/arg.png
     pts1: "zero"
     pts2: "0"
