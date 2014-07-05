@@ -1003,12 +1003,12 @@
     team2: "بلژیک"
     flag1: assets/img/flags/arg.png
     flag2: assets/img/flags/bel.png
-    pts1: "zero"
+    pts1: "1"
     pts2: "0"
-    goal1: ""
+    goal1: "گونزالو هيگواين ('8)"
     goal2: ""
-    yellow1: "0"
-    yellow2: "0"
+    yellow1: "لوکاس بيگليا ('75)"
+    yellow2: "ادن هازارد ('53), توبی آلدرويرلد ('68)"
     red1: "0"
     red2: "0"
     time: "20:30"
@@ -1060,9 +1060,9 @@
   groups:
   - group: نيمه نهايي
     team1: "[W59]"
-    team2: "[W60]"
+    team2: "آرژانتین"
     flag1: assets/img/flags/blank.png
-    flag2: assets/img/flags/blank.png
+    flag2: assets/img/flags/arg.png
     pts1: "zero"
     pts2: "0"
     goal1: ""
