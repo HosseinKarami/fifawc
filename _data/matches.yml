@@ -1043,11 +1043,11 @@
     team2: "آلمان"
     flag1: assets/img/flags/bra.png
     flag2: assets/img/flags/ger.png
-    pts1: "zero"
-    pts2: "0"
-    goal1: ""
-    goal2: ""
-    yellow1: "0"
+    pts1: "1"
+    pts2: "7"
+    goal1: "اسکار ('90)"
+    goal2: "توماس مولر ('11), ميروسلاو کلوزه ('23), تونی کروس ('24, '26), سامى خديرا ('29), آندره شورله ('69, '79)"
+    yellow1: "دانته ('68)"
     yellow2: "0"
     red1: "0"
     red2: "0"
@@ -1079,9 +1079,9 @@
   level: secondstage
   groups:
   - group: رده بندی
-    team1: "[L61]"
+    team1: "برزیل"
     team2: "[L62]"
-    flag1: assets/img/flags/blank.png
+    flag1: assets/img/flags/bra.png
     flag2: assets/img/flags/blank.png
     pts1: "zero"
     pts2: "0"
@@ -1099,9 +1099,9 @@
   level: secondstage
   groups:
   - group: فینال
-    team1: "[W61]"
+    team1: "آلمان"
     team2: "[W62]"
-    flag1: assets/img/flags/blank.png
+    flag1: assets/img/flags/ger.png
     flag2: assets/img/flags/blank.png
     pts1: "zero"
     pts2: "0"
