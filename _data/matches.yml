@@ -1083,12 +1083,12 @@
     team2: "هلند"
     flag1: assets/img/flags/bra.png
     flag2: assets/img/flags/ned.png
-    pts1: "zero"
-    pts2: "0"
+    pts1: "0"
+    pts2: "3"
     goal1: ""
-    goal2: ""
-    yellow1: "0"
-    yellow2: "0"
+    goal2: "روبين فان‌پرسی ('3 P), دالی بليند ('17), جورجينيو وينالدام ('90+)"
+    yellow1: "تياگو سيلوا ('2), فرناندينيو ('54), اسکار ('68)"
+    yellow2: "آرين روبن ('9), جاناتان دِگوژمان ('36)"
     red1: "0"
     red2: "0"
     time: "00:30"
